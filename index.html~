@@ -3,7 +3,7 @@
 <body>
 <h1>Hello World</h1>
 <p>I'm hosted with GitHub Pages.</p>
-	<img  src="https://marc-hellmuth.github.io/marchellmuth.jpg"	
+	<img  src="./marchellmuth.jpg"	
 		  width="400" height="267"  
 		  border="1"  alt="Marc Hellmuth"  /> 
 
