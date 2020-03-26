@@ -28,11 +28,11 @@
       <div id="menubar">
         <ul id="menu">
           <!-- put class="selected" in the li tag for the selected page - to highlight which page you're on -->
-          <li class="selected"><a href="index.html">Home</a></li>
+          <li><a href="index.html">Home</a></li>
          <!-- <li><a href="examples.html">Examples</a></li>-->
           <li><a href="research.html">Reasearch</a></li>
           <li><a href="publi.html">Publications</a></li>
-          <li><a href="software.html">Software</a></li>
+          <li class="selected"><a href="software.html">Software</a></li>
           <li><a href="teaching.html">Teaching</a></li>
           <li><a href="contact.html">Contact</a></li>
         </ul>
@@ -56,13 +56,7 @@
 					</li>
           <li><a href="http://www.bioinf.uni-leipzig.de/%7Emarc/StimmenDerStadt/" target="_blank">Album "Stimmen der Stadt" (2004)</a></li>
         </ul>
-        <h3>Search</h3>
-        <form method="post" action="#" id="search_form">
-          <p>
-            <input class="search" type="text" name="search_field" value="Enter keywords....." />
-            <input name="search" type="image" style="border: 0; margin: 0 0 -9px 5px;" src="style/search.png" alt="Search" title="Search" />
-          </p>
-        </form>
+     
       </div>
 
 
