@@ -9,12 +9,6 @@
   <link rel="stylesheet" type="text/css" href="style/style.css" title="style" />
 </head>
 
-<!-- ###########################
-	###########################
-	###########################
-	###########################
--->
-
 <body>
   <div id="main">
     <div id="header">
@@ -38,6 +32,13 @@
         </ul>
       </div>
     </div>
+
+<!-- ###########################
+	###########################
+	###########################
+	###########################
+-->
+
     <div id="site_content">
       <div class="sidebar">
         <!-- insert your sidebar items here -->
