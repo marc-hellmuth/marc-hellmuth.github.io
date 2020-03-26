@@ -1,0 +1,129 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <title>colour_blue - examples</title>
+  <meta name="description" content="website description" />
+  <meta name="keywords" content="website keywords, website keywords" />
+  <meta http-equiv="content-type" content="text/html; charset=windows-1252" />
+  <link rel="stylesheet" type="text/css" href="style/style.css" title="style" />
+</head>
+
+<!-- ###########################
+	###########################
+	###########################
+	###########################
+-->
+
+<body>
+  <div id="main">
+    <div id="header">
+      <div id="logo">
+        <div id="logo_text">
+          <!-- class="logo_colour", allows you to change the colour of the text -->
+          <h1><a href="index.html">Marc Hellmuth<span class="logo_colour"></span></a></h1>
+          <h2>Priv.-Doz. Dr. rer. nat.</h2>
+        </div>
+      </div>
+      <div id="menubar">
+        <ul id="menu">
+          <!-- put class="selected" in the li tag for the selected page - to highlight which page you're on -->
+          <li class="selected"><a href="index.html">Home</a></li>
+         <!-- <li><a href="examples.html">Examples</a></li>-->
+          <li><a href="research.html">Reasearch</a></li>
+          <li><a href="publi.html">Publications</a></li>
+          <li><a href="software.html">Software</a></li>
+          <li><a href="teaching.html">Teaching</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </div>
+    </div>
+    <div id="site_content">
+      <div class="sidebar">
+        <!-- insert your sidebar items here -->
+     <!--   <h3>Latest News</h3>
+        <h4>New Website Launched</h4>
+        <h5>January 1st, 2010</h5>
+        <p>2010 sees the redesign of our website. Take a look around and let us know what you think.<br /><a href="#">Read more</a></p>
+        <p></p>
+        <h4>New Website Launched</h4>
+        <h5>January 1st, 2010</h5>
+        <p>2010 sees the redesign of our website. Take a look around and let us know what you think.<br /><a href="#">Read more</a></p>-->
+				<!--<p></br></br></br></br></br></br></br></br></br></br></br></br></br></br>	</p> -->
+       <h3>External Links</h3>
+        <ul>
+          <li><a href="http://www.mirador-ev.org/" target="_blank">Mirador e.V</a>
+					</li>
+          <li><a href="http://www.bioinf.uni-leipzig.de/%7Emarc/StimmenDerStadt/" target="_blank">Album "Stimmen der Stadt" (2004)</a></li>
+        </ul>
+        <h3>Search</h3>
+        <form method="post" action="#" id="search_form">
+          <p>
+            <input class="search" type="text" name="search_field" value="Enter keywords....." />
+            <input name="search" type="image" style="border: 0; margin: 0 0 -9px 5px;" src="style/search.png" alt="Search" title="Search" />
+          </p>
+        </form>
+      </div>
+
+
+<!-- ###########################
+	###########################
+	###########################
+	###########################
+-->
+	
+			<div id="content">
+				<h1>Software</h1>
+
+				<h2>ParaPhylo</h2>
+				<p>ParaPhylo is a tool for reconstructing phylogenetic species trees based on information about paralogous genes. It relies on solving three intertwined NP-hard optimization problems: the cograph editing problem, the maximum consistent triple set problem, and the least resolved tree problem. Implemented as Integer Linear Program, paralogy-based phylogenies can be computed exactly for up to some twenty species and their complete protein complements. </p><ul><li><a href="http://pacosy.informatik.uni-leipzig.de/209-0-Downloads.html" title="Öffnet externen Link" target="_blank" class="external-link">Download</a></li><li><a href="/storages/uni-greifswald/fakultaet/mnf/mathinf/boldt/pdf-dateien/hellmuth-paraophylo_workprint.pdf" title="Öffnet internen Link" class="file-link">Workprint and Supplement</a></li></ul><p><em>Reference for ParaPhylo:</em></p><p>M. Hellmuth, N. Wieseke, M. Lechner, H-P Lenhof, M. Middendorf, and P.F. Stadler<br />Phylogenomics with Paralogs <br />Proceedings of the National Academy of Sciences (PNAS), 112(7):2058–2063, 2015<br /><br />M. Hellmuth, N. Wieseke <br />From Sequence Data incl. Orthologs, Paralogs, and Xenologs to Gene and Species Trees<br />in  Evolutionary Biology: Convergent Evolution, Evolution of Complex  Traits, Concepts and Methods, Ed. Pierre Pontarotti, Springer,  ISBN&nbsp;978-3-319-41323-5, 2016
+</p><p>&nbsp;</p>
+
+
+			<h2>	GapEST</h2>
+			<p>Antiparallel strong traces (ASTs) are a type of walks in graphs which use every edge exactly twice. They correspond to 1-face embeddings in orientable surfaces and can be used to design self- assembling protein or DNA strands. Based on a novel canonical form invariant for ASTs, gap vector, we provide a linear-time isomorphism test for ASTs and thus, also for orientable 1-face embeddings of graphs. Using the canonical form, we develop the algorithm GapEST for enumerating all pairwise non-isomorphic 1-face embeddings of given graphs. 
+</p><p><a href="https://github.com/nojgaard/DoubleTrace" title="Öffnet internen Link" target="_blank" class="external-link">Download</a><br /><a href="http://www.imada.sdu.dk/Employees/daniel/gapEST/" title="Öffnet internen Link" target="_blank" class="external-link">Datasets</a></p><p><em>Reference for GapEST:</em></p><p>M. Hellmuth, A.S. Knudsen, M. Kotrbčík, D. Merkle and N. NøjgaardLinear Time Canonicalization and Enumeration of Non-Isomorphic 1-Face EmbeddingsSIAM: Algorithm Engineering and Experiments (ALENEX18)&nbsp; (to appear) 2018
+</p><p>&nbsp;</p>
+
+
+				<h2>TimeCons-Reconc			</h2>
+	<p>In the absence of horizontal gene transfer it is possible to reconstruct the history of gene families from empirically determined orthology relations, which are equivalent to event-labeled gene trees. Knowledge of the event labels considerably simplifies the problem of reconciling a gene tree T with a species trees S, relative to the reconciliation problem without prior knowledge of the event types. It is well-known that optimal reconciliations in the unlabeled case may violate time-consistency and thus are not biologically feasible. TimeCons-Recons is a tool that allow to check in O(|V(T)|log(|V(S)|))-time whether there is a time-consistent reconciliation map between an event-labeled gene tree T and a species tree S. 
+</p><p><a href="https://github.com/Nojgaard/tc-recon" title="Öffnet internen Link" target="_blank" class="external-link">Download</a></p><p><em>Reference for TimeCons-Reconc</em></p><p>N. Nøjgaard, M. Geiß, D. Merkle, P. F. Stadler, N. Wieske, M. HellmuthForbidden Time Travel: Characterization of Time-Consistent Tree Reconciliation Maps17th International Workshop on Algorithms in Bioinformatics (WABI 2017),Leibniz International Proceedings in Informatics (LIPIcs), 88, 17:1--17:12, 2017
+</p><p>&nbsp;</p>
+
+
+			<h2>	PartialHomology			</h2>
+	<p>A variety of methods based on sequence similarity, reconciliation, synteny or functional charac- teristics, can be used to infer homology relations, that is, orthology, paralogy and xenology relations between genes of a given gene family G. The (inferred) homology relations might not cover each pair of genes and thus, provide only partial knowledge on the full set of homology relations. Moreover, for particular pairs of genes it might be known with a high degree of certainty that they are not orthologs (resp. paralogs, xenologs) which yields forbidden pairs of genes. The question arises as whether such sets of (partial) homology relations with or without forbidden gene pairs are satisfiable, i.e., can they simultaneously co-exist in an evolutionary history for G. PartialHomology is an O(|G|^2+m|G|)-time algorithm to determine whether such homology relations are satisfiable and, in the positive case, to construct event-labeled gene trees containing speciation, duplication and horizontal gene transfer (HGT) events that can explain the relations.
+</p><p><a href="https://github.com/Nojgaard/Partial-Homology" title="Öffnet internen Link" target="_blank" class="external-link">Download</a></p><p><em>Reference for PartialHomology:</em></p><p>N. Nøjgaard, N. El-Mabrouk, D. Merkle, N. Wieske, M. Hellmuth<br />Partial Orthology, Paralogy and Xenology Relations - Satisfiability in terms of Di-Cographs<br />arXiv:1711.00504 (2017)
+</p><p>&nbsp;</p>
+
+
+			<h2>	ComposAlign			</h2>
+
+	<p>Alignments are part of the most&nbsp; important data type in the field of comparative genomics. They can be abstracted to a character matrix derived from aligned sequences. Avariety of biological questions forces&nbsp; the researcher to inspect these alignments. Our tool,&nbsp; called ComposeAlign, was developed to sonify largescale genomic data.The resulting musical composition is based&nbsp; on COMMONMUSIC and allows the mapping of genes to motifs and&nbsp; species&nbsp; to instruments. It enables the researcher to listen to the&nbsp; musical representation of thegenome-wide alignment and contrasts a bioinformatician's sight-oriented work at the computer.
+</p><p>Webinterface, Sources and Examples can be found <a href="http://www2.bioinf.uni-leipzig.de/ComposAlign/examples/" title="Öffnet internen Link" target="_blank" class="external-link">here</a>.&nbsp; 
+</p><p><em>Reference for ComposeAlign:</em></p><p>T. Ingalls, G. Martius, M. Hellmuth, M. Marz, S.J. Prohaska,<br /> Converting DNA to Music: ComposAlign,<br /> German Conference on Bioinformatics 2009:Lecture Notes in Informatics, 93-103, 2009
+</p><p><br /><br /></p>
+
+
+			<h2>	(Approximate) Products of Graphs			</h2>
+
+	<p>The following tools are designed to determine the (approximate) prime factors of a given graph.
+</p><p><strong>Prime Factor Decomposition of Graphs w.r.t. Strong Product Using a Local Approach</strong></p><ul><li><a href="http://vred.bioinf.uni-sb.de/GraphProducts/READ_ME_local" title="Öffnet externen Link" target="_blank" class="external-link">README</a></li><li><a href="http://vred.bioinf.uni-sb.de/GraphProducts/new_local_general.rar" title="Öffnet externen Link" target="_blank" class="external-link">source_files</a></li><li><a href="http://vred.bioinf.uni-sb.de/GraphProducts/K3_P3_Moebius.dat" title="Öffnet externen Link" target="_blank" class="external-link">exmpl-file: K3_P3_Moebius.dat</a></li><li><a href="http://www.boost.org/doc/libs/1_53_0/more/getting_started/" title="Öffnet externen Link" target="_new" class="external-link">Boost 1_53</a></li></ul><p><em>Reference for Local PFD strong product graphs:</em></p><p>M. Hellmuth<br />A Local Prime Factor Decomposition Algorithm<br />Discrete Mathematics, 311, 12, 944-965, 2011
+</p><p><strong>Prime Factor Decomposition of Graphs </strong><strong>w.r.t the Strong Product</strong></p><ul><li><a href="http://vred.bioinf.uni-sb.de/GraphProducts/README_V2.txt" title="Öffnet externen Link" target="_blank" class="external-link">README</a></li><li><a href="http://vred.bioinf.uni-sb.de/GraphProducts/strongProd_21.rar" title="Öffnet externen Link" target="_blank" class="external-link">source_files<br /></a></li></ul><p><strong>Prime Factor Decomposition of Graphs </strong><strong>w.r.t. the Cartesian Product</strong></p><ul><li><a href="http://vred.bioinf.uni-sb.de/GraphProducts/documentation.pdf" title="Öffnet externen Link" target="_blank" class="external-link">README</a></li><li><a href="http://vred.bioinf.uni-sb.de/GraphProducts/cartProd.rar" title="Öffnet externen Link" target="_blank" class="external-link">source_files</a></li></ul>
+
+
+		<h2>		Boost Graph Library	</h2>
+		<ul><li><a href="http://www.boost.org/doc/libs/release/libs/graph/" title="Öffnet externen Link" target="_blank" class="external-link">website</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </li></ul>
+
+
+
+	   </div>
+    </div>
+    <div id="content_footer"></div>
+    <div id="footer">
+      Copyright &copy; colour_blue | <a href="http://validator.w3.org/check?uri=referer">HTML5</a> | <a href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a> | <a href="http://www.html5webtemplates.co.uk">design from HTML5webtemplates.co.uk</a>
+    </div>
+  </div>
+</body>
+</html>

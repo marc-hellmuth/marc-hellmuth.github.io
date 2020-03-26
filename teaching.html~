@@ -1,0 +1,196 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <title>colour_blue - another page</title>
+  <meta name="description" content="website description" />
+  <meta name="keywords" content="website keywords, website keywords" />
+  <meta http-equiv="content-type" content="text/html; charset=windows-1252" />
+  <link rel="stylesheet" type="text/css" href="style/style.css" title="style" />
+</head>
+
+<body>
+  <div id="main">
+    <div id="header">
+      <div id="logo">
+        <div id="logo_text">
+          <!-- class="logo_colour", allows you to change the colour of the text -->
+          <h1><a href="index.html">colour<span class="logo_colour">blue</span></a></h1>
+          <h2>Simple. Contemporary. Website Template.</h2>
+        </div>
+      </div>
+      <div id="menubar">
+        <ul id="menu">
+          <!-- put class="selected" in the li tag for the selected page - to highlight which page you're on -->
+          <li><a href="index.html">Home</a></li>
+          <li><a href="examples.html">Examples</a></li>
+          <li><a href="page.html">A Page</a></li>
+          <li class="selected"><a href="another_page.html">Another Page</a></li>
+          <li><a href="contact.html">Contact Us</a></li>
+        </ul>
+      </div>
+    </div>
+    <div id="content_header"></div>
+    <div id="site_content">
+      <div class="sidebar">
+        <!-- insert your sidebar items here -->
+        <h3>Latest News</h3>
+        <h4>New Website Launched</h4>
+        <h5>January 1st, 2010</h5>
+        <p>2010 sees the redesign of our website. Take a look around and let us know what you think.<br /><a href="#">Read more</a></p>
+        <p></p>
+        <h4>New Website Launched</h4>
+        <h5>January 1st, 2010</h5>
+        <p>2010 sees the redesign of our website. Take a look around and let us know what you think.<br /><a href="#">Read more</a></p>
+        <h3>Useful Links</h3>
+        <ul>
+          <li><a href="#">link 1</a></li>
+          <li><a href="#">link 2</a></li>
+          <li><a href="#">link 3</a></li>
+          <li><a href="#">link 4</a></li>
+        </ul>
+        <h3>Search</h3>
+        <form method="post" action="#" id="search_form">
+          <p>
+            <input class="search" type="text" name="search_field" value="Enter keywords....." />
+            <input name="search" type="image" style="border: 0; margin: 0 0 -9px 5px;" src="style/search.png" alt="Search" title="Search" />
+          </p>
+        </form>
+      </div>
+
+
+
+      <div id="content">
+        <!-- insert the page content here -->
+        <h1>Teaching</h1>
+
+				<h2>Lectures and Seminars:</h2>
+				<font size="3"><strong>University of Leeds</strong></font><br><br>
+						<i>	As part of the ``flying faculty'' staff I deliver teaching within the Joint School Programme
+					at the SJU in Chengdu, China.</i><br>	<br>	
+
+					<strong>Lectures</strong>
+					<div style="text-indent:10px;">Computer Processors (WS 19/20) </div>
+			
+
+				<br><br>
+				<font size="3"><strong>University of Greifswald</strong></font><br><br>
+				<strong>Lectures</strong>
+						<div style="text-indent:10px;">Combinatorics (SS 19) </div>
+						<div style="text-indent:10px;">Efficient Algorithms and Data Structures (WS 18/19, 19/20)  </div>
+						<div style="text-indent:10px;">Graph Theory (WS 17/18, 19/20)  </div>
+						<div style="text-indent:10px;">Discrete Optimization (WS 15/16, 16/17, SS 18)  </div>
+						<div style="text-indent:10px;">Bioinformatics (SS 15, 16, 17)  </div>
+						<div style="text-indent:10px;">Software Engineering (SS 18) </div>
+
+				<br>
+				<strong>Seminars</strong>
+						<div style="text-indent:10px;">FUN with Algorithms (WS 18/19)  </div>
+						<div style="text-indent:10px;">Mathematical Phylogeny (SS 17)   </div>
+						<div style="text-indent:10px;">Products of Graphs and Hypergraphs (SS 16, 19) </div>
+
+				<br><br>
+				<font size="3"><strong>Saarland University</strong></font><br><br>
+				<strong>Lectures</strong>
+							<div style="text-indent:10px;">Discrete Comput. Biology (WS 11/12, 12/13, 13/14, 14/15)</div>
+							<div style="text-indent:10px;">Bioinformatics Lecture Series (WS 11/12, 12/13, 13/14, 14/15)</div> 
+				<br>
+				<strong>Seminars</strong>
+							<div style="text-indent:10px;">Efficient Algorithms for RNA molecules (SS 11, 12, WS 11/12) </div>
+							<div style="text-indent:10px;">Bioinf. Approaches for Cancer Research (SS 11, 12, WS 11/12)</div>
+							<div style="text-indent:10px;">Selected Topics in Molecular Docking (SS 11, 12) </div>
+							<div style="text-indent:10px;">Modelling and Analyzing Biological Networks (SS 12)</div>
+
+				<br><br>
+			<font size="3"><strong>University of Leipzig</strong></font><br><br>
+				<strong>Lectures</strong>
+							<div style="text-indent:10px;">Phenotypespace and Approximate Graph Products</div>
+							<div style="text-indent:10px;">Mathematics in Bioinformatics (WS 07/08, 08/09) </div>
+							<div style="text-indent:10px;">Graph Theory (SS 07, 08)</div>
+				<br>
+				<strong>Seminars</strong>
+							<div style="text-indent:10px;">Algorithms and Data Structures (WS 08/09, 10/11)</div>
+
+
+				<br>
+				<h2>Former Students:</h2>
+
+
+				<strong>PhD Thesis</strong>
+
+				<ol>
+				<li>&nbsp;<a href="http://pacosy.informatik.uni-leipzig.de/20-0-Nicolas+Wieseke.html" target="_blank">Nicolas Wiesecke</a>&nbsp; (PhD)<br />From Homologous Genes to Phylogenetic Species Trees<br />(co-supervised with<a href="http://pacosy.informatik.uni-leipzig.de/15-0-Prof+Dr+Martin+Middendorf.html" target="_blank"> Martin Middendorf</a>) <br />01. Sept. 2017
+				</li>
+				<li>Lydia Ostermeier (PhD)<br />(Relaxed) Product Structures of Graphs and Hypergraphs<br />(co-supervised with<a href="http://www.bioinf.uni-leipzig.de/~studla/" target="_blank"> P.F.Stadler</a>)<br />13. May 2015</li>
+				</ol>
+
+				<strong>MSc and Diploma Thesis</strong>
+				<ol>
+				<li>Carmen Bruckmann (MSc Biomathematics)<br /> Median graph-Like
+				Relations<br /> 23. Aug. 2019 ;</li>
+				<li>Carsten Seemann
+				(MSc Mathematics)<br /> Generalized Fitch Graphs<br /> 24. Aug.
+				2018 ;</li>
+				<li>Anne Schuetz (MSc Biomathematics)<br />
+				Spanning Tree Based Edge-Vitality of Graphs<br /> 20. Aug. 2018</li>
+				<li>Sebastian Brinkop (MSc Biomathematics)<br />
+				Local Factorization Algorithms for Strong Products of Directed
+				Graphs<br /> 28. May 2018 ;</li>
+				<li>Paul Klemm (MSc
+				Mathematics)<br /> How Much Information is Provided by Induced P4's
+				for the Characterization of Orthology Data?<br /> 23. Feb. 2018</li>
+					<li>John Anders (MSc Bioinformatics - Co-supervision
+				with P.F. Stadler)<br /> Fitch’s Xenology Relation<br /> 26. June
+				2017 ;</li>
+				<li>Sebastian Luersen (MSc Mathematics)<br />
+				Approximate Cartesian Products of Digraphs<br /> 26. Aug. 2016</li>
+				<li>Maria Hartmann (MSc Mathematics)<br /> Design of
+				Methods to Align NMR-Spectra<br /> 13. June 2016</li>
+				<li>Kevin Gitzhofer (MSc Bioinformatics)<br /> Heuristic
+				approaches for the reconstruction of minimally resolved
+				phylogenetic trees<br /> 31. Aug. 2015 ;</li>
+				<li>Adrian
+				Fritz (MSc Bioinformatics)<br /> A Heuristic for Cograph-Editing<br
+				/> 30. June 2015 ;</li>
+				<li>Tilen Marc (MSc
+				Mathematics)<br /> Infinite median graphs - Co-supervision
+				with Sandi Klavzar<br /> 15. Aug. 2014
+				</li>
+				<li>Manuel Noll (MSc Computer Science)<br /> On Several
+				Strong Hypergraph Products - Existence and Computation of Unique
+				Prime Factor Decomposition<br /> 02. Dec. 2013
+				</li>
+				<li>Lydia Gringmann (Diplom Mathematics)<br />
+				Hypergraph Products<br /> 08. Feb. 2010</li>
+			</ol> 
+
+				<strong>BSc Thesis</strong>
+			<ol>
+			<li>Nicola  Doering<br /> 	Algorithms for the "Reciprocal Best Match" Problem<br /> 	04. Feb. 2020 </li>
+			<li>Mira Michel<br /> 	Combinining Orthology- and Fitch-Relations<br /> 	21. Aug. 2019 </li>
+			<li>Linda Knuever (BSc BioMathematics)<br /> 	Fitch Graphen<br /> 	22. March 2018 </li>
+			<li>Lars Berling (BSc BioMathematics)<br /> 	A Comparison of Triple Based Heuristics for Supertree Reconstruction<br /> 	13. March 2018 </li>
+			<li>Fynn Marlin Leitow (BSc Mathematics)<br /> 	Heuristics and Exact Algorithms for the Di-Cograph Editing Problem<br /> 	01. Feb. 2018 </li>
+			<li>Casten Seemann (BSc Mathematics)<br /> 	Splits and Triples in rooted Trees and the Closure of Representative Triple Sets<br /> 	24. March 2017 </li>
+			<li>Felix Becker (BSc Mathematics)<br /> 	Efficient Primfactor-Decomposition of Cartesian Product Graphs<br /> 	14. Feb. 2017 </li>
+			<li>Anica Hoppe (BSc BioMathematics)<br /> 	On the relationship between phylogenetic trees on four leaves and estimated orthology relations<br /> 	29. Nov. 2016 </li>
+			<li>Sonja Tuerpitz (BSc BioMathematics)<br /> 	On the reconstruction of slightly disturbed symbolic ultrametrics<br /> 	29. Nov. 2016 </li>
+			<li>Jan Oldenburg (BSc Mathematics)<br /> 	Protein Design with Machine Learning Methods<br /> 	9. Aug 2016 </li>
+			<li>Jannik Luxenburg (BSc Bioinformatics)<br /> 	Efficient Generation and Structural Analysis of RNA-Phenotype Spaces<br /> 	20. Aug. 2015 </li>
+			<li>Christian Brossette (BSc Bioinformatics)<br /> 	Effcient Algorithms for the Densest-k Subgraph problem<br /> 	26. June 2014 </li>
+			<li>Kevin Gitzhofer (BSc Bioinformatics)<br /> 	New Results in Finding Species Trees<br /> 	27. June 2013 </li>
+			<li>Miriam Bah (BSc Bioinformatics)<br /> 	Measuring the relevance of topology in networks for finding deregulated subgraphs<br /> 	30. Oct. 2012 </li>
+			<li>Sarah Berkemer (BSc Bioinformatics)<br /> 	Cograph Editing: An Approach to Adjust the Orthology Relation for the Reconstruction of Phylogenetic Trees<br /> 	12. Aug. 2012 </li>
+			<li>Anna Feldmann (BSc Bioinformatics)<br /> 	Retrieving optimally discriminative Subnetwork Markers to predict response to Chemotherapy using a Color-coding Technique<br /> 	13. April 2012</li>
+			</ol
+
+				<br>
+      </div>
+    </div>
+    <div id="content_footer"></div>
+    <div id="footer">
+      Copyright &copy; colour_blue | <a href="http://validator.w3.org/check?uri=referer">HTML5</a> | <a href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a> | <a href="http://www.html5webtemplates.co.uk">design from HTML5webtemplates.co.uk</a>
+    </div>
+  </div>
+</body>
+</html>
