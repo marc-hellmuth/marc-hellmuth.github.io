@@ -88,9 +88,6 @@
 						(submitted 2019)<br /> 
 						[<a href="https://arxiv.org/abs/1906.10031"   target="_blank">arXiv</a>]</li>
 
-				<li>C. Flamm, M. Hellmuth, D. Merkle, N. N&oslash;jgaard, P.F. Stadler<br /> 	
-						Generic Context-Aware Group Contributions<br /> 	
-						(submitted 2019)</li>
 			</ol>
 
  	<h4>Published (peer-reviewed)</h4>
@@ -105,6 +102,12 @@
 
 	<br>
 	<h5>JOURNALS</h5>
+
+				<li>C. Flamm, M. Hellmuth, D. Merkle, N. N&oslash;jgaard, P.F. Stadler<br /> 	
+						Generic Context-Aware Group Contributions<br /> 	
+						 IEEE/ACM Trans Comput Biol Bioinform,	
+						(to appear) 2020)</li>
+
 
 	<li>P.F. Stadler, M. Gei&szlig;, D. Schaller, A. Lopez, M.G. Laffitte;
 				D.I. Valdivia; M. Hellmuth; M. H. Rosales<br /> From pairs of most similar sequences to
@@ -123,9 +126,14 @@ phylogenetic best matches<br /> Algorithms for Molecular Biology, (to appear)
 				page</a>][<a href="https://arxiv.org/abs/1911.07469" title="Öffnet
 				internen Link" target=">_blank">arXiv</a>]</li>
 
+
+
 				<li>A. Fritz, M. Hellmuth, P. F. Stadler , N. Wieseke<br /> Cograph Editing: Merging
 				Modules is equivalent to Editing P4's<br /> Art Discrete Appl.
 				Math., 3, #P2.01, 2020<br /> [<a
+				href="https://adam-journal.eu/index.php/ADAM/article/view/1252"
+				  target="_blank">publisher's
+				page</a>[<a
 				href="http://arxiv.org/abs/1702.07499"  
 				target="_blank">arXiv</a>]</li>
 
@@ -237,7 +245,10 @@ phylogenetic best matches<br /> Algorithms for Molecular Biology, (to appear)
 				<li>M. Hellmuth, D. Merkle, N. N&oslash;jgaard<br /> 	
 							  Atom Tracking Using Cayley Graphs<br /> 	
 								16th International Symposium on Bioinformatics Research and Applications (ISBRA 2020)<br />
-								(to appear), 2020</li> 
+								(to appear), 2020<br />
+								[<a href="https://cheminf.imada.sdu.dk/preprints/isbra-2020.pdf"   target="_blank">preprint</a>]
+				</li> 
+
 
 
 					<li>J.L. Andersen, M. Hellmuth, D. Merkle, N. N&oslash;jgaard, M. Peressotti<br /> 
