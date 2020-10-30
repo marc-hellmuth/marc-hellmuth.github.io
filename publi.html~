@@ -72,7 +72,11 @@
         <!-- insert the page content here -->
         <h1>Publications</h1>
  				<h4>Submitted</h4>
-      <ol>
+      <ol>				
+					<li>Cayley Graphs of Semigroups Applied to Atom Tracking in Chemistry<br /> 	
+						M. Hellmuth, D. Merkle, N. N&oslash;jgaard<br /> 	
+						(submitted 2020)<br />  <!-- Journal of Computational Biology. -->
+
 				<li>Complexity of Modification Problems for Best Match Graphs<br /> 	
 						D. Schaller, P.F. Stadler, M. Hellmuth<br /> 	
 						(submitted 2020)<br /> 
@@ -109,7 +113,7 @@
 	<li>M. Hellmuth, N. Wieseke<br /> 	From Sequence Data incl. Orthologs, Paralogs, and Xenologs to Gene and Species Trees<br /> 	in Evolutionary Biology: Convergent Evolution, Evolution of Complex Traits, Concepts and Methods, Ed. Pierre Pontarotti, Springer, p. 373-392, ISBN&nbsp;978-3-319-41323-5, 2016<br />
 	[<a href="http://link.springer.com/chapter/10.1007%2F978-3-319-41324-2_21" target="_blank">publisher's page</a>][<a href="http://arxiv.org/abs/1602.08268" target="_blank">arXiv</a>]</li>
 	<li><em>Habilitation Thesis (2015)</em><br /> 	On the Decomposition and Reconstruction of Discrete Structures: Characterization, Approximation and Computation <a href="https://math-inf.uni-greifswald.de/storages/uni-greifswald/fakultaet/mnf/mathinf/hellmuth/Habil-MHellmuth-ExtendedAbstract.pdf" title="Öffnet Dateilink">[Extended Abstract]</a></li>
-	<li><em>PhD-Thesis (2010) &quot;</em>grade: summa cum laude&quot;<br /> 	Local Prime Factor Decomposition of Approximate Strong Product Graphs <a href="http://www.qucosa.de/recherche/frontdoor/?tx_slubopus4frontend[id]=3875" target="â€_blankâ€">[pdf]</a></li>
+	<li><em>PhD-Thesis (2010) &quot;</em>grade: summa cum laude&quot;<br /> 	Local Prime Factor Decomposition of Approximate Strong Product Graphs <a href="https://www.qucosa.de/api/qucosa%3A11033/attachment/ATT-0/" target="â€_blankâ€">[pdf]</a></li>
 	<li><em>Diploma Thesis (2006)</em><br /> 	Konstruktion von Worten mit Matchingeigenschaften und Anwendung auf das RNA Design <a href="http://www.bioinf.uni-leipzig.de/%7Emarc/talks/thesis.pdf" target="â€_blankâ€">[pdf]</a></li>
 
 	<br>
