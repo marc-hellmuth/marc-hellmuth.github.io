@@ -72,7 +72,12 @@
         <!-- insert the page content here -->
         <h1>Publications</h1>
  				<h4>Submitted</h4>
-      <ol>				
+      <ol>	
+     		<li>Indirect Identification of Horizontal Gene Transfer<br /> 	
+						David Schaller, Manuel Lafond, P.F. Stadler, Nicolas Wieseke, Marc Hellmuth ∗<br /> 	
+						(submitted 2020)<br /> <!-- JOMB. 
+					  [<a href="https://arxiv.org/abs/2011.00511"   target="_blank">arXiv</a>]</li>-->
+			
 				<li>Best Match Graphs with Binary Trees<br /> 	
 						D. Schaller, M.  Gei&szlig;,  M. Hellmuth, P.F. Stadler<br /> 	
 						(submitted 2020)<br /> <!-- Alcob2021. -->
@@ -80,19 +85,19 @@
 
 				<li>Corrigendum to "Best Match Graphs"<br /> 	
 						D. Schaller, M. Gei&szlig;, E. Chavez, M. Gonzalez, A. Lopez, D. Valdivia, M. H. Rosales, B.M.R. Stadler, Marc Hellmuth, P.F. Stadler<br /> 	
-						(submitted 2020)<br /> 
+						(submitted 2020)<br /> <!-- JOMB. -->
 					  [<a href="https://arxiv.org/pdf/1803.10989.pdf"   target="_blank">arXiv</a>]</li>
 
 
 				<li>Complete Edge-Colored Permutation Graphs<br /> 	
 						T. Hartmann, M. Bannach, M. Middendorf, P.F. Stadler, N. Wieseke, M. Hellmuth<br /> 	
-						(submitted 2020)<br /> 
+						(submitted 2020)<br /> <!-- DM. -->
 					  [<a href="http://arxiv.org/abs/2004.07118"   target="_blank">arXiv</a>]</li>
 
 	
 				<li>Hierarchical and Modularly-Minimal Vertex Colorings<br /> 	
 						D.I. Valdivia, M. Gei&szlig;, M. H.Rosales, P.F. Stadler,  M. Hellmuth<br /> 	
-						(submitted 2020)<br /> 
+						(submitted 2020)<br /> <!-- DAM -->
 						[<a href="https://arxiv.org/abs/2004.06340"   target="_blank">arXiv</a>]</li> 
 
 				<li>M. Hellmuth,&nbsp; Carsten R. Seemann, P.F. Stadler<br /> 	
@@ -117,7 +122,7 @@
 	<h5>JOURNALS</h5>
 					<li>Cayley Graphs of Semigroups Applied to Atom Tracking in Chemistry<br /> 	
 						M. Hellmuth, D. Merkle, N. N&oslash;jgaard<br /> 	
-						Journal of Computational Biology, (to appear), 2020)</li>  <!-- . -->
+						Journal of Computational Biology, (to appear), 2020</li>  <!-- . -->
 
 				<li>Complete Characterization of Incorrect Orthology Assignments in Best Match Graphs<br /> 	
 						D. Schaller, M.  Gei&szlig;, P.F. Stadler, M. Hellmuth<br /> 	
