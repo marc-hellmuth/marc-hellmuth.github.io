@@ -17,7 +17,7 @@
         <div id="logo_text">
           <!-- class="logo_colour", allows you to change the colour of the text -->
           <h1><a href="index.html">Marc Hellmuth<span class="logo_colour"></span></a></h1>
-          <h2>Priv.-Doz. Dr. rer. nat.</h2>
+          <h2>Associate Professor, Priv.-Doz. Dr. rer. nat.</h2>
         </div>
       </div>
       <div id="menubar">
@@ -71,14 +71,15 @@
 			<div id="content">
         <!-- insert the page content here -->
         <h1>Contact</h1>
-	    	<p>School of Computing</br>
-				University of Leeds </br>
-				E C Stoner Building</br>
-				Leeds LS2 9JT</br>
-				England   </br>
+       	<p>
+       	Department of Mathematics</br>
+				Faculty of Science</br>
+				Stockholm University</br>
+				106 91 Stockholm </br>
+				Sweden</br>
 
 				</br>
-				mailto: mhellmuth&#60;at&#62;mailbox.org
+				mailto: mhellmuth&#60;at&#62;mailbox&#60;dot&#62;org
 
       </div>
     </div>
