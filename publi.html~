@@ -76,18 +76,16 @@
   		<li>Least resolved trees for two-colored best match graphs<br /> 	
 						D. Schaller, M.  Gei&szlig;, M. Hellmuth, P.F. Stadler <br /> 	
 						(submitted 2021)<br /> <!-- Journal of Graph Algorithms and Applications -->
-					 <!-- [<a href="https://arxiv.org/abs/2012.08897"   target="_blank">arXiv</a>]</li>-->
+					 [<a href="https://arxiv.org/abs/2101.07000"   target="_blank">arXiv</a>]</li>
+
+
 
      		<li>Indirect Identification of Horizontal Gene Transfer<br /> 	
 						D. Schaller, M. Lafond, P.F. Stadler, N. Wieseke, M. Hellmuth <br /> 	
 						(submitted 2020)<br /> <!-- JOMB. -->
 					  [<a href="https://arxiv.org/abs/2012.08897"   target="_blank">arXiv</a>]</li>
 			
-				<li>Best Match Graphs with Binary Trees<br /> 	
-						D. Schaller, M.  Gei&szlig;,  M. Hellmuth, P.F. Stadler<br /> 	
-						(submitted 2020)<br /> <!-- Alcob2021. -->
-					  [<a href="https://arxiv.org/abs/2011.00511"   target="_blank">arXiv</a>]</li>
-
+			
 				<li>Corrigendum to "Best Match Graphs"<br /> 	
 						D. Schaller, M. Gei&szlig;, E. Chavez, M. Gonzalez, A. Lopez, D. Valdivia, M. H. Rosales, B.M.R. Stadler, Marc Hellmuth, P.F. Stadler<br /> 	
 						(submitted 2020)<br /> <!-- JOMB. -->
@@ -297,6 +295,10 @@
 	<h5>CONFERENCE PROCEEDINGS</h5>
 
 
+				<li>Best Match Graphs with Binary Trees<br /> 	
+						D. Schaller, M.  Gei&szlig;,  M. Hellmuth, P.F. Stadler<br /> 	
+						7th-8th International Conference on Algorithms for Computational Biology <br>(AlCoB 2020 & 2021), 2021 (to appear<br /> <!-- Alcob2021. -->
+					  )[<a href="https://arxiv.org/abs/2011.00511"   target="_blank">arXiv</a>]</li>
 
 
 				<li>M. Hellmuth, D. Merkle, N. N&oslash;jgaard<br /> 	
