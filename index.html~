@@ -73,13 +73,13 @@
       <div id="content">
         <!-- insert the page content here -->
         <!--<h1>Welcome to the homepage of Marc Hellmuth</h1>-->
-			 	<span class="center">
-				<img 	src="./marchellmuth.jpg"	
-							width="400" height="267"  
-					  	border="0.5"  alt="Marc Hellmuth"  > 
+<!--			 	<span class="left">
+				<img 	src="./marchellmuth-c.jpg"	
+							width="312.3" height="266.5	"   
+					  	border="0.5"  alt="Marc Hellmuth"  > -->
 				</span></br>
 				<p align="justify">
-					Marc Hellmute is associate professor at the 
+					Marc Hellmuth is associate professor at the 
 					Stockholm University (<a href="https://www.su.se/english/profiles/mahe0163-1.529352#" target="_blank">Department of Mathematics</a>) in Sweden. 		
 					Before joining the  
 					Stockholm University, he worked as a lecturer at
