@@ -71,60 +71,11 @@
       <div id="content">
         <!-- insert the page content here -->
         <h1>Publications</h1>
- 				<h4>Submitted</h4>
-      <ol>	
-    		<li>Arc-Completion of a 2-Colored Best Match Graphs to a Binary-Explainable Best Match Graph<br /> 	
-						D. Schaller, M.  Gei&szlig;, M. Hellmuth, P.F. Stadler <br /> 	
-						(submitted 2021)<br /> <!-- MPDI - david 
-					 [<a href="https://arxiv.org/abs/2101.07000"   target="_blank">arXiv</a>]</li>-->
-
-    		<li>Heuristic Algorithms for Best Match Graph Editing<br /> 	
-						D. Schaller, M.  Gei&szlig;, M. Hellmuth, P.F. Stadler <br /> 	
-						(submitted 2021)<br /> <!-- Journal of Heuritics - david 
-					 [<a href="https://arxiv.org/abs/2101.07000"   target="_blank">arXiv</a>]</li>-->
-
-
-  		<li>Least resolved trees for two-colored best match graphs<br /> 	
-						D. Schaller, M.  Gei&szlig;, M. Hellmuth, P.F. Stadler <br /> 	
-						(submitted 2021)<br /> <!-- Journal of Graph Algorithms and Applications -->
-					 [<a href="https://arxiv.org/abs/2101.07000"   target="_blank">arXiv</a>]</li>
-
-
-
-
-     		<li>Indirect Identification of Horizontal Gene Transfer<br /> 	
-						D. Schaller, M. Lafond, P.F. Stadler, N. Wieseke, M. Hellmuth <br /> 	
-						(submitted 2020)<br /> <!-- JOMB. under review 8 Jan 2021 -->
-					  [<a href="https://arxiv.org/abs/2012.08897"   target="_blank">arXiv</a>]</li>
-			
-			
-				<li>Corrigendum to "Best Match Graphs"<br /> 	
-						D. Schaller, M. Gei&szlig;, E. Chavez, M. Gonzalez, A. Lopez, D. Valdivia, M. H. Rosales, B.M.R. Stadler, Marc Hellmuth, P.F. Stadler<br /> 	
-						(submitted 2020)<br /> <!-- JOMB. -->
-					  [<a href="https://arxiv.org/pdf/1803.10989.pdf"   target="_blank">arXiv</a>]</li>
-
-
-				<li>Complete Edge-Colored Permutation Graphs<br /> 	
-						T. Hartmann, M. Bannach, M. Middendorf, P.F. Stadler, N. Wieseke, M. Hellmuth<br /> 	
-						(submitted 2020)<br /> <!-- DM. under review since Dec 30 2020-->
-					  [<a href="http://arxiv.org/abs/2004.07118"   target="_blank">arXiv</a>]</li>
-
-	
-				<li>Hierarchical and Modularly-Minimal Vertex Colorings<br /> 	
-						D.I. Valdivia, M. Gei&szlig;, M. H.Rosales, P.F. Stadler,  M. Hellmuth<br /> 	
-						(submitted 2020)<br /> <!-- DAM under review since 20.Sep 2020-->
-						[<a href="https://arxiv.org/abs/2004.06340"   target="_blank">arXiv</a>]</li> 
-
-				<li>M. Hellmuth,&nbsp; Carsten R. Seemann, P.F. Stadler<br /> 	
-						Generalized Fitch Graphs III: Symmetrized Fitch maps and Sets of Symmetric Binary Relations that are explained by Unrooted Edge-labeled Trees<br /> 
-						(submitted 2020)<br /> 	<!-- DMTCS (review revised version)-->
-						[<a href="https://arxiv.org/abs/2001.05921"   target="_blank">arXiv</a>]</li>
-
-			</ol>
 
 </br>
- 	<h4>Published (peer-reviewed)</h4>
-	<ol>	
+
+<h4>Published (peer-reviewed)</h4>
+<ol>	
 	<h5>MONOGRAPHS / BOOK CHAPTERS</h5>
 
 	<li>M. Hellmuth, N. Wieseke<br /> 	From Sequence Data incl. Orthologs, Paralogs, and Xenologs to Gene and Species Trees<br /> 	in Evolutionary Biology: Convergent Evolution, Evolution of Complex Traits, Concepts and Methods, Ed. Pierre Pontarotti, Springer, p. 373-392, ISBN&nbsp;978-3-319-41323-5, 2016<br />
@@ -345,6 +296,64 @@ A Graph-Based Tool to Embed the pi-Calculus into a Computational DPO Framework<b
 					<li>T. Ingalls, G. Martius, M. Hellmuth, M. Marz, S.J. Prohaska,<br /> 	Converting DNA to Music: ComposAlign,<br /> 	German Conference on Bioinformatics 2009:Lecture Notes in Informatics, 93-103, 2009<br /><a href="https://subs.emis.de/LNI/Proceedings/Proceedings157/93.pdf" title="Öffnet externen Link" target="â€_blankâ€">[publisher's page]</a><a href="http://www2.bioinf.uni-leipzig.de/ComposAlign/examples/" target="â€_blankâ€"> [examples]</a></li>
 
 					<li>M. Hellmuth, D. Merkle, M. Middendorf,<br /> 	On the Design of RNA Sequences for Realizing Extended Shapes,<br /> 	Bioinformatics, Systems Biology and Intelligent Computing, IJCBS '09, 167-173, 2009<br /><a href="http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?tp=&amp;arnumber=5260708&amp;isnumber=5260405" target="â€_blankâ€">[publisher's page]</a></li>
+
+<br />
+
+ 				<h4>Submitted</h4>
+    		<li>From Modular Decomposition Trees to Rooted Median Graphs<br /> 	
+						C. Bruckmann, P.F. Stadler, M. Hellmuth <br /> 	
+						(submitted 2021)<br /> <!-- DAM  
+					 [<a href="https://arxiv.org/abs/2101.07000"   target="_blank">arXiv</a>]</li>-->
+
+    		<li>Arc-Completion of 2-Colored Best Match Graphs to Binary-Explainable Best Match Graphs<br /> 	
+						D. Schaller, M.  Gei&szlig;, M. Hellmuth, P.F. Stadler <br /> 	
+						(submitted 2021)<br /> <!-- MPDI - david 
+					 [<a href="https://arxiv.org/abs/2101.07000"   target="_blank">arXiv</a>]</li>-->
+
+    		<li>Heuristic Algorithms for Best Match Graph Editing<br /> 	
+						D. Schaller, M.  Gei&szlig;, M. Hellmuth, P.F. Stadler <br /> 	
+						(submitted 2021)<br /> <!-- Journal of Heuritics - david 
+					 [<a href="https://arxiv.org/abs/2101.07000"   target="_blank">arXiv</a>]</li>-->
+
+
+  		<li>Least resolved trees for two-colored best match graphs<br /> 	
+						D. Schaller, M.  Gei&szlig;, M. Hellmuth, P.F. Stadler <br /> 	
+						(submitted 2021)<br /> <!-- Journal of Graph Algorithms and Applications -->
+					 [<a href="https://arxiv.org/abs/2101.07000"   target="_blank">arXiv</a>]</li>
+
+
+
+
+     		<li>Indirect Identification of Horizontal Gene Transfer<br /> 	
+						D. Schaller, M. Lafond, P.F. Stadler, N. Wieseke, M. Hellmuth <br /> 	
+						(submitted 2020)<br /> <!-- JOMB. under review 8 Jan 2021 -->
+					  [<a href="https://arxiv.org/abs/2012.08897"   target="_blank">arXiv</a>]</li>
+			
+			
+				<li>Corrigendum to "Best Match Graphs"<br /> 	
+						D. Schaller, M. Gei&szlig;, E. Chavez, M. Gonzalez, A. Lopez, D. Valdivia, M. H. Rosales, B.M.R. Stadler, Marc Hellmuth, P.F. Stadler<br /> 	
+						(submitted 2020)<br /> <!-- JOMB. -->
+					  [<a href="https://arxiv.org/pdf/1803.10989.pdf"   target="_blank">arXiv</a>]</li>
+
+
+				<li>Complete Edge-Colored Permutation Graphs<br /> 	
+						T. Hartmann, M. Bannach, M. Middendorf, P.F. Stadler, N. Wieseke, M. Hellmuth<br /> 	
+						(submitted 2020)<br /> <!-- DM. under review since Dec 30 2020-->
+					  [<a href="http://arxiv.org/abs/2004.07118"   target="_blank">arXiv</a>]</li>
+
+	
+				<li>Hierarchical and Modularly-Minimal Vertex Colorings<br /> 	
+						D.I. Valdivia, M. Gei&szlig;, M. H.Rosales, P.F. Stadler,  M. Hellmuth<br /> 	
+						(submitted 2020)<br /> <!-- DAM under review since 20.Sep 2020-->
+						[<a href="https://arxiv.org/abs/2004.06340"   target="_blank">arXiv</a>]</li> 
+
+				<li>M. Hellmuth,&nbsp; Carsten R. Seemann, P.F. Stadler<br /> 	
+						Generalized Fitch Graphs III: Symmetrized Fitch maps and Sets of Symmetric Binary Relations that are explained by Unrooted Edge-labeled Trees<br /> 
+						(submitted 2020)<br /> 	<!-- DMTCS (review revised version)-->
+						[<a href="https://arxiv.org/abs/2001.05921"   target="_blank">arXiv</a>]</li>
+
+<!--			</ol>-->
+
 
 </ol>
 
