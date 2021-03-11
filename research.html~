@@ -71,10 +71,11 @@
         <!-- insert the page content here -->
         <h1>Research</h1>
         <ul>
-          <li>Data Science	</li>
           <li>Discrete Mathematics (Combinatorics, Optimization and (Hyper)Graph Theory)	</li>
           <li>Algorithm Design and Complexity Theory</li>
           <li>Mathematical and Computational Biology </li>
+					<li>Computational Mathematics</li>
+          <li>Data Science	</li>
 				</ul>
 
 				<span class="center">

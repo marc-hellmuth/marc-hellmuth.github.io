@@ -77,6 +77,11 @@
 				<img 	src="./marchellmuth-c.jpg"	
 							width="312.3" height="266.5	"   
 					  	border="0.5"  alt="Marc Hellmuth"  > -->
+					  	<span class="center">
+				<img 	src="./marchellmuth.jpg"	
+							width="400" height="267"  
+					  	border="0.5"  alt="Marc Hellmuth"  > 
+				</span></br>
 				</span></br>
 				<p align="justify">
 					Marc Hellmuth is associate professor at the 
