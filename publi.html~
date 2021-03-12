@@ -297,13 +297,13 @@ A Graph-Based Tool to Embed the pi-Calculus into a Computational DPO Framework<b
 
 					<li>M. Hellmuth, D. Merkle, M. Middendorf,<br /> 	On the Design of RNA Sequences for Realizing Extended Shapes,<br /> 	Bioinformatics, Systems Biology and Intelligent Computing, IJCBS '09, 167-173, 2009<br /><a href="http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?tp=&amp;arnumber=5260708&amp;isnumber=5260405" target="â€_blankâ€">[publisher's page]</a></li>
 
-<br />
+<br /><br />
 
  				<h4>Submitted</h4>
     		<li>From Modular Decomposition Trees to Rooted Median Graphs<br /> 	
 						C. Bruckmann, P.F. Stadler, M. Hellmuth <br /> 	
-						(submitted 2021)<br /> <!-- DAM  
-					 [<a href="https://arxiv.org/abs/2101.07000"   target="_blank">arXiv</a>]</li>-->
+						(submitted 2021)<br /> <!-- DAM-->  
+					 [<a href="http://arxiv.org/abs/2103.06683"   target="_blank">arXiv</a>]</li>
 
     		<li>Arc-Completion of 2-Colored Best Match Graphs to Binary-Explainable Best Match Graphs<br /> 	
 						D. Schaller, M.  Gei&szlig;, M. Hellmuth, P.F. Stadler <br /> 	
