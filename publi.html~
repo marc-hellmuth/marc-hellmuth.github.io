@@ -254,7 +254,7 @@
 
 				<li>L. Gringmann, M. Hellmuth, P.F. Stadler,<br /> 	The Cartesian Product of Hypergraphs,<br /> 	Journal of Graph Theory, 70, 2, 180-196, 2012<br /><a href="http://onlinelibrary.wiley.com/doi/10.1002/jgt.20609/abstract;jsessionid=5EE24B11A80E6E3D495579122C56D68B.d02t04?systemMessage=Wiley+Online+Library+will+be+disrupted+4+June+from+10-12+BST+for+monthly+maintenance" target="_blank">[publisher's page]</a></li>
 
-				<li>M. Hellmuth, L. Ostermeier, P.F. Stadler,<br /> 	A Survey on Hypergraph Products,<br /> 	Mathematics in Computer Science, 6, 1, 1-32, 2012<br /><a href="http://www.springerlink.com/content/u264g6j390428682/" target="_blank">[publisher's page]</a><a href="https://arxiv.org/pdf/1705.06037.pdf"   target="_blank">[arXiv - ERRATUM]</a></li>
+				<li>M. Hellmuth, L. Ostermeier, P.F. Stadler,<br /> 	A Survey on Hypergraph Products,<br /> 	Mathematics in Computer Science, 6, 1, 1-32, 2012<br /><a href="https://link.springer.com/article/10.1007/s11786-012-0109-6" target="_blank">[publisher's page]</a><a href="https://arxiv.org/pdf/1705.06037.pdf"   target="_blank">[arXiv - ERRATUM]</a></li>
 
 				<li>M. Hellmuth, P.J. Ostermeier, P.F. Stadler,<br /> 	Minimum Cycle Bases of Lexicographic Products,<br /> 	Ars Math. Contemporanea, 5, 2, 223-234, 2012<br /><a href="http://amc.imfm.si/index.php/amc/article/view/172" target="_blank">[publisher's page]</a></li>
 
@@ -349,12 +349,12 @@ A Graph-Based Tool to Embed the pi-Calculus into a Computational DPO Framework<b
 	
 				<li>Hierarchical and Modularly-Minimal Vertex Colorings<br /> 	
 						D.I. Valdivia, M. Gei&szlig;, M. H.Rosales, P.F. Stadler,  M. Hellmuth<br /> 	
-						(submitted 2020)<br /> <!-- DAM under review since 20.Sep 2020-->
+						(submitted 2020)<br /> <!-- DAM under review since 20.Sep 2020, review done, waiting-->
 						[<a href="https://arxiv.org/abs/2004.06340"   target="_blank">arXiv</a>]</li> 
 
 				<li>M. Hellmuth,&nbsp; Carsten R. Seemann, P.F. Stadler<br /> 	
 						Generalized Fitch Graphs III: Symmetrized Fitch maps and Sets of Symmetric Binary Relations that are explained by Unrooted Edge-labeled Trees<br /> 
-						(submitted 2020)<br /> 	<!-- DMTCS (review revised version)-->
+						(submitted 2020)<br /> 	<!-- DMTCS (review done for revised version, waiting)-->
 						[<a href="https://arxiv.org/abs/2001.05921"   target="_blank">arXiv</a>]</li>
 
 <!--			</ol>-->
