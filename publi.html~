@@ -97,10 +97,6 @@
 						J. Math. Biology, (to appear), 2021<br /> 
 					  [<a href="https://arxiv.org/abs/2012.08897"   target="_blank">arXiv</a>]</li>	
 	
-				<li>Corrigendum to "Best Match Graphs"<br /> 	
-						D. Schaller, M. Gei&szlig;, E. Chavez, M. Gonzalez, A. Lopez, D. Valdivia, M. H. Rosales, B.M.R. Stadler, Marc Hellmuth, P.F. Stadler<br /> 	
-						J. Math. Biology, (to appear), 2021<br /> <!-- JOMB. -->
-					  [<a href="https://arxiv.org/pdf/1803.10989.pdf"   target="_blank">arXiv</a>]</li>
 
 				<li>Arc-Completion of 2-Colored Best Match Graphs to Binary-Explainable Best Match Graphs<br /> 	
 						D. Schaller, M.  Gei&szlig;, M. Hellmuth, P.F. Stadler <br /> 	
@@ -109,6 +105,14 @@
 					href="https://doi.org/10.3390/a14040110"
 				  target="_blank">publisher's page</a>]
 					 [<a href="https://arxiv.org/abs/2103.06665"   target="_blank">arXiv</a>]</li>
+
+				<li>Corrigendum to "Best Match Graphs"<br /> 	
+						D. Schaller, M. Gei&szlig;, E. Chavez, M. Gonzalez, A. Lopez, D. Valdivia, M. H. Rosales, B.M.R. Stadler, Marc Hellmuth, P.F. Stadler<br /> 	
+						J. Math. Biology, 82, 47, 2021<br /> <!-- JOMB. -->
+					[<a
+					href="https://doi.org/10.1007/s00285-021-01601-6"
+				  target="_blank">publisher's page</a>]
+					  [<a href="https://arxiv.org/pdf/1803.10989.pdf"   target="_blank">arXiv</a>]</li>
 	
 
 				<li>Complete Characterization of Incorrect Orthology Assignments in Best Match Graphs<br /> 	
@@ -318,6 +322,11 @@ A Graph-Based Tool to Embed the pi-Calculus into a Computational DPO Framework<b
 <br /><br />
 
  				<h4>Submitted</h4>
+    		<li>From Modular Decomposition Trees to Rooted Median Graphs<br /> 	
+						C. Bruckmann, P.F. Stadler, M. Hellmuth <br /> 	
+						(submitted 2021)<br /> <!-- DAM-->  
+					 [<a href="http://arxiv.org/abs/2103.06683"   target="_blank">arXiv</a>]</li>
+
     		<li>From Modular Decomposition Trees to Rooted Median Graphs<br /> 	
 						C. Bruckmann, P.F. Stadler, M. Hellmuth <br /> 	
 						(submitted 2021)<br /> <!-- DAM-->  
