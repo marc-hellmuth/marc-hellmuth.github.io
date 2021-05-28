@@ -135,7 +135,6 @@
 				<h4>Current Students:</h4>
 				<ol>
 				<li>David Schaller (PhD Computer Science) <i>Best Match Graphs</i>  </li>
-				<li>Anna Lindeberg (BSc Math)  <i> Perfect Matching in Graphs </i> </li>
 				<li>Thomas Andersson (BSc Math) <i> Modularly Minimal Vertex Colorings </i>   </li>
 				<li>Mohammed Habib (BSc Math) <i> Later-Divergence-Time Graphs </i>   </li>
 				<li>Nicolai Moerdrup (BSc Math) <i> Complete Edge-Colored Permutation Graphs </i>   </li>
@@ -200,8 +199,9 @@
 
 				<strong>BSc Thesis</strong>
 			<ol>
-			<li>Nicola  Doering<br /> 	Algorithms for the "Reciprocal Best Match" Problem<br /> 	04. Feb. 2020 </li>
-			<li>Mira Michel<br /> 	Combinining Orthology- and Fitch-Relations<br /> 	21. Aug. 2019 </li>
+				<li>Anna Lindeberg (BSc Computer Science)  <br /> Maximum matchings in Graph Products </br/ >  27. May 2021 </li>
+			<li>Nicola  Doering  (BSc BioMathematics)<br /> 	Algorithms for the "Reciprocal Best Match" Problem<br /> 	04. Feb. 2020 </li>
+			<li>Mira Michel  (BSc BioMathematics)<br /> 	Combinining Orthology- and Fitch-Relations<br /> 	21. Aug. 2019 </li>
 			<li>Linda Knuever (BSc BioMathematics)<br /> 	Fitch Graphen<br /> 	22. March 2018 </li>
 			<li>Lars Berling (BSc BioMathematics)<br /> 	A Comparison of Triple Based Heuristics for Supertree Reconstruction<br /> 	13. March 2018 </li>
 			<li>Fynn Marlin Leitow (BSc Mathematics)<br /> 	Heuristics and Exact Algorithms for the Di-Cograph Editing Problem<br /> 	01. Feb. 2018 </li>
