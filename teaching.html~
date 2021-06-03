@@ -134,10 +134,8 @@
 
 				<h4>Current Students:</h4>
 				<ol>
-				<li>David Schaller (PhD Computer Science) <i>Best Match Graphs</i>  </li>
 				<li>Thomas Andersson (BSc Math) <i> Modularly Minimal Vertex Colorings </i>   </li>
 				<li>Mohammed Habib (BSc Math) <i> Later-Divergence-Time Graphs </i>   </li>
-				<li>Nicolai Moerdrup (BSc Math) <i> Complete Edge-Colored Permutation Graphs </i>   </li>
 				<li>Ahmet Sezer (BSc Math) <i> Biologically-feasible gene trees </i>   </li>
 				</ol>
 
@@ -149,6 +147,10 @@
 				<strong>PhD Thesis</strong>
 
 				<ol>
+				<li><a href="https://imada.sdu.dk/~nojgaard/" target="_blank">David Schaller </a> (PhD - under review) <br />Gene Family Histories: Theory and Algorithms <br /> 
+				(co-supervised with<a href="http://www.bioinf.uni-leipzig.de/~studla/" target="_blank"> P.F.Stadler</a>)
+				 </li>
+
 				<li><a href="https://imada.sdu.dk/~nojgaard/" target="_blank">Nikolai N&oslash;jgaard</a> (PhD - with highest honor)<br />Graph Theoretical Problems in the Life Sciences<br />(cotutelle with Southern Denmark University; <a href="https://imada.sdu.dk/~daniel/" target="_blank"> Daniel Merkle</a>) <br />17. July 2020
 				</li>
 				<li><a href="http://pacosy.informatik.uni-leipzig.de/20-0-Nicolas+Wieseke.html" target="_blank">Nicolas Wiesecke</a>(PhD - with highest honor)<br />From Homologous Genes to Phylogenetic Species Trees<br />(co-supervised with<a href="http://pacosy.informatik.uni-leipzig.de/15-0-Prof+Dr+Martin+Middendorf.html" target="_blank"> Martin Middendorf</a>) <br />01. Sept. 2017
@@ -199,7 +201,8 @@
 
 				<strong>BSc Thesis</strong>
 			<ol>
-				<li>Anna Lindeberg (BSc Computer Science)  <br /> Maximum matchings in Graph Products </br/ >  27. May 2021 </li>
+			<li>Nicolai Moerdrup (BSc Computer Science) <br /> Complete Edge-Colored Permutation Graphs <br /> 28. May 2021  </li>
+			<li>Anna Lindeberg (BSc Computer Science)  <br /> Maximum matchings in Graph Products </br />  27. May 2021 </li>
 			<li>Nicola  Doering  (BSc BioMathematics)<br /> 	Algorithms for the "Reciprocal Best Match" Problem<br /> 	04. Feb. 2020 </li>
 			<li>Mira Michel  (BSc BioMathematics)<br /> 	Combinining Orthology- and Fitch-Relations<br /> 	21. Aug. 2019 </li>
 			<li>Linda Knuever (BSc BioMathematics)<br /> 	Fitch Graphen<br /> 	22. March 2018 </li>
