@@ -87,6 +87,13 @@
 				
 				
       	<p align="justify">
+      	Bringing mathematicians, computer scientists and researchers in life sciences
+				closer together is one of my main goals. In general, my research focuses on the
+				mathematical characterization of data in life-sciences, a step that is crucial to
+				understand the structure of the underlying problems and thus, to answer fundamental
+				questions: How do we best extract knowledge out of the
+				given data and how can we do it efficiently?</br>
+				
       The development of mathematical theory to help understanding complex processes
       in life sciences are one of my main interests. This, in turn, helped to
       translate theoretical research results into concrete, practical and innovative
@@ -102,7 +109,7 @@
 				<li> Self-assembling Nano structure (Proteins, RNA)
 				<li> Atom Tracking in Chemical Reaction Networks
 				<li> Combinatorial RNA secondary structures
-				<li> Genetic interaction networks
+				<li> Gene/PPI interaction networks
 				<li> Sonification of Sequence Alignments
 				<li> Simulation Tools
 				</ul>
