@@ -70,11 +70,17 @@
       <div id="content">
         <!-- insert the page content here -->
         <h1>Research</h1>
+              	<p align="justify">
+<b>              	Mathematics</br> Computer Science </br> Mathematical and Computational Life Sciences </br> Data Science
+</b>
+              	      </p>
         <ul>
+          <li>Mathematics </li>
+          <li> Computer Science </li>
           <li>Mathematical and Computational Life Sciences </li>
-				    <li>Algorithm Design and Complexity Theory</li>
-       	   <li>Discrete Mathematics (Combinatorics, Optimization and (Hyper)Graph Theory)	</li>
-		      <li>Computational Mathematics</li>
+<!--				    <li>Algorithm Design and Complexity Theory</li>-->
+<!--       	   <li>Discrete Mathematics (Combinatorics, Optimization and (Hyper)Graph Theory)	</li>-->
+<!--		      <li>Computational Mathematics</li>-->
           <li>Data Science	</li>
 				</ul>
 
