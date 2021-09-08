@@ -95,8 +95,14 @@
 
     		<li>Heuristic Algorithms for Best Match Graph Editing<br /> 	
 						D. Schaller, M.  Gei&szlig;, M. Hellmuth, P.F. Stadler <br /> 	
-												Algorithms for Molecular Biology, (to appear), 2021<br /> <!-- Journal of Heuritics - david -->
-					 [<a href="https://arxiv.org/abs/2103.07280"   target="_blank">arXiv</a>]</li>
+												Algorithms for Molecular Biology, 16, 19, 2021<br /> <!-- Journal of Heuritics - david -->
+					[<a
+					href="https://almob.biomedcentral.com/articles/10.1186/s13015-021-00196-3"
+				  target="_blank">publisher's page</a>]
+  		 [<a href="https://arxiv.org/abs/2103.07280"   target="_blank">arXiv</a>]
+					 
+
+
 
 					<li>Cayley Graphs of Semigroups Applied to Atom Tracking in Chemistry<br /> 	
 						M. Hellmuth, W. Fontana, D. Merkle, N. N&oslash;jgaard<br /> 	
