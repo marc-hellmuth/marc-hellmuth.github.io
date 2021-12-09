@@ -86,10 +86,17 @@
 
 	<br>
 	<h5>JOURNALS</h5>
+				<li>From Modular Decomposition Trees to Rooted Median Graphs<br /> 	
+						C. Bruckmann, P.F. Stadler, M. Hellmuth <br /> 	
+						 Discr. Appl. Math, (to appear), 2021<br /> <!-- DAM-->  
+					 [<a href="http://arxiv.org/abs/2103.06683"   target="_blank">arXiv</a>]</li>
 
  				 <li> A Simple Linear-Time Algorithm for the Common Refinement of Rooted Phylogenetic Trees on a Common Leaf Set<br /> 	
 						D. Schaller, M. Hellmuth, P.F. Stadler,  <br /> 	
-						Algorithms for Molecular Biology (to appear), 2021<br /> <!-- Almob-->  
+						Algorithms for Molecular Biology, 16, 23, 2021<br /> <!-- Almob-->  
+					[<a
+					href="https://almob.biomedcentral.com/articles/10.1186/s13015-021-00202-8"
+				  target="_blank">publisher's page</a>]
 					 [<a href="https://arxiv.org/abs/2107.00072"   target="_blank">arXiv</a>]</li>
 
   		 <li>Least resolved trees for two-colored best match graphs<br /> 	
@@ -99,6 +106,7 @@
 					href="https://jgaa.info/getPaper?id=564"
 				  target="_blank">publisher's page</a>]
 					 [<a href="https://arxiv.org/abs/2101.07000"   target="_blank">arXiv</a>]</li>
+
 
 
 
