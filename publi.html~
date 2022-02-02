@@ -86,11 +86,16 @@
 
 	<br>
 	<h5>JOURNALS</h5>
+				<li>Hierarchical and Modularly-Minimal Vertex Colorings<br /> 	
+						D.I. Valdivia, M. Gei&szlig;, M. H.Rosales, P.F. Stadler,  M. Hellmuth<br /> 	
+						Art Discrete Appl. Math. (to appear) 2022<br /> <!-- IMrich edition-->
+						[<a href="https://arxiv.org/abs/2004.06340"   target="_blank">arXiv</a>]</li> 
+ 		
 			<li>Best Match Graphs with Binary Trees<br /> 	
 						D. Schaller, M.  Gei&szlig;, M. Hellmuth, P.F. Stadler,  <br /> 	
-						IEEE/ACM Transactions on Computational Biology and Bioinformatics, (to appear), 2022<br />
+						IEEE/ACM Transactions on Computational Biology and Bioinformatics, DOI:10.1109/TCBB.2022.3143870, 2022<br />
 					 [<a href="https://arxiv.org/abs/2011.00511"   target="_blank">arXiv</a>]</li>
- 		
+
  		
 				<li>From Modular Decomposition Trees to Rooted Median Graphs<br /> 	
 						C. Bruckmann, P.F. Stadler, M. Hellmuth <br /> 	
@@ -115,9 +120,6 @@
 					href="https://jgaa.info/getPaper?id=564"
 				  target="_blank">publisher's page</a>]
 					 [<a href="https://arxiv.org/abs/2101.07000"   target="_blank">arXiv</a>]</li>
-
-
-
 
 
     		<li>Heuristic Algorithms for Best Match Graph Editing<br /> 	
@@ -436,10 +438,6 @@ A Graph-Based Tool to Embed the pi-Calculus into a Computational DPO Framework<b
 					  [<a href="http://arxiv.org/abs/2004.07118"   target="_blank">arXiv</a>]</li>
 
 	
-				<li>Hierarchical and Modularly-Minimal Vertex Colorings<br /> 	
-						D.I. Valdivia, M. Gei&szlig;, M. H.Rosales, P.F. Stadler,  M. Hellmuth<br /> 	
-						(submitted 2020)<br /> <!-- IMrich edition-->
-						[<a href="https://arxiv.org/abs/2004.06340"   target="_blank">arXiv</a>]</li> 
 
 			
 
