@@ -88,14 +88,19 @@
 	<h5>JOURNALS</h5>
     		<li>Compatibility of Partitions, Hierarchies, and Split Systems<br /> 	
 						M. Hellmuth, D. Schaller, P.F. Stadler,  <br /> 	
-						Discr. Appl. Math (to appear) 2022<br /> <!-- DAM -->  
+						Discr. Appl. Math, 314, 265-283, 2022<br /> <!-- DAM -->  
+					 [<a href=" https://authors.elsevier.com/sd/article/S0166-218X(22)00085-3"  target="_blank">publisher's	page</a>]
 					 [<a href="http://arxiv.org/abs/2104.14146"   target="_blank">arXiv</a>]</li>
 
 
 				<li>Hierarchical and Modularly-Minimal Vertex Colorings<br /> 	
 						D.I. Valdivia, M. Gei&szlig;, M. H.Rosales, P.F. Stadler,  M. Hellmuth<br /> 	
-						Art Discrete Appl. Math. (to appear) 2022<br /> <!-- IMrich edition-->
+						Art Discrete Appl. Math., DOI 10.26493/2590-9770.1422.9b6, 2022<br /> <!-- IMrich edition-->
+						[<a href="https://adam-journal.eu/index.php/ADAM/article/view/1422"  target="_blank">publisher's	page</a>]
 						[<a href="https://arxiv.org/abs/2004.06340"   target="_blank">arXiv</a>]</li> 
+ 		
+ 		
+ 		
  		
 			<li>Best Match Graphs with Binary Trees<br /> 	
 						D. Schaller, M.  Gei&szlig;, M. Hellmuth, P.F. Stadler,  <br /> 	
@@ -434,7 +439,7 @@ A Graph-Based Tool to Embed the pi-Calculus into a Computational DPO Framework<b
 
 				<li>Complete Edge-Colored Permutation Graphs<br /> 	
 						T. Hartmann, M. Bannach, M. Middendorf, P.F. Stadler, N. Wieseke, M. Hellmuth<br /> 	
-						(submitted 2020)<br /> <!-- DM. under review since Dec 30 2020-->
+						(submitted 2020)<br /> <!-- Advances in Appl Math (else4) 2022 ->
 					  [<a href="http://arxiv.org/abs/2004.07118"   target="_blank">arXiv</a>]</li>
 
 	
