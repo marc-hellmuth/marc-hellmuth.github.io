@@ -87,6 +87,12 @@
 	<br>
 	<h5>JOURNALS</h5>
 
+ 				 <li>Construction of k-matchings and k-regular subgraphs in graph products<br /> 	
+						A. Lindeberg, M. Hellmuth <br /> 	
+						Art Discrete Appl. Math., (to appear) 2022<br /> <!-- ADAM imrich issue-->  
+				   [<a href="https://arxiv.org/abs/2109.06755"   target="_blank">arXiv</a>]</li>
+
+
 				<li>Complete Edge-Colored Permutation Graphs<br /> 	
 						T. Hartmann, M. Bannach, M. Middendorf, P.F. Stadler, N. Wieseke, M. Hellmuth<br /> 	
 						Advances in Applied Mathematics, (to appear),  2022<br /> 
@@ -420,18 +426,13 @@ A Graph-Based Tool to Embed the pi-Calculus into a Computational DPO Framework<b
 					 <li>Clustering Systems of Phylogenetic Networks<br /> 	
 							 M. Hellmuth, D. Schaller,  P.F. Stadler,  <br /> 	
 						(submitted 2022)<br /> <!-- JMB-->
-				   [<a href="https://www.researchgate.net/publication/359843940_Clustering_Systems_of_Phylogenetic_Networks"   target="_blank">preprint</a>]</li>						
+				   [<a href="https://arxiv.org/abs/2204.13466"   target="_blank">arXiv</a>]</li>						
 
  				 <li>From Modular Decomposition Trees to Level-1 networks: Pseudo-Cographs, Polar-Cats and Prime Polar-Cats<br /> 	
 						 M. Hellmuth, G.E. Scholz <br /> 	
 						(submitted 2021)<br /> <!--JcombSerB-->  
 				   [<a href="https://arxiv.org/abs/2112.05537"   target="_blank">arXiv</a>]</li>
 
-
- 				 <li>Construction of k-matchings and k-regular subgraphs in graph products<br /> 	
-						A. Lindeberg, M. Hellmuth <br /> 	
-						(submitted 2021)<br /> <!-- ADAM imrich issue-->  
-				   [<a href="https://arxiv.org/abs/2109.06755"   target="_blank">arXiv</a>]</li>
 
  				 <li>Planar Median Graphs and Cubesquare-Graphs<br /> 	
 						C.R. Seemann, V. Moulton, P.F. Stadler, M. Hellmuth <br /> 	
