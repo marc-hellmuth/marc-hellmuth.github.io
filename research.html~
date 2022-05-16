@@ -74,15 +74,15 @@
 <b>              	Mathematics</br> Computer Science </br> Mathematical and Computational Life Sciences </br> Data Science
 </b>
               	      </p>
-        <ul>
+<!--        <ul>
           <li>Mathematics </li>
           <li> Computer Science </li>
           <li>Mathematical and Computational Life Sciences </li>
 <!--				    <li>Algorithm Design and Complexity Theory</li>-->
 <!--       	   <li>Discrete Mathematics (Combinatorics, Optimization and (Hyper)Graph Theory)	</li>-->
 <!--		      <li>Computational Mathematics</li>-->
-          <li>Data Science	</li>
-				</ul>
+<!--          <li>Data Science	</li>-->
+<!--				</ul>-->
 
 				<span class="center">
 				<img 	src="./wortwolke.png"	
