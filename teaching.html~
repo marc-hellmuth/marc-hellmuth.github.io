@@ -28,8 +28,8 @@
           <li><a href="research.html">Research</a></li>
           <li><a href="publi.html">Publications</a></li>
           <li><a href="software.html">Software</a></li>
-          <li class="selected"><a href="teaching.html">Teaching</a></li>
-          <li><a href="contact.html">Contact</a></li>
+          <li class="selected"><a href="teaching.html">Teaching <br>  & Students</a></li>
+          <li><a href="contact.html"> Group <br>  &  Contact</a></li>        </ul>
         </ul>
       </div>
     </div>
