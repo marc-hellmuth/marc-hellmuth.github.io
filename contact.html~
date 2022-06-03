@@ -94,13 +94,14 @@
         <h2>PhD Students</h2>
         
  		<ul>
- 		    <li>tba
-           </li>
-		</ul>         
+			<li><a href="https://www.bioinf.uni-leipzig.de/~carsten/" target="_blank">Carsten R. Seemann </a>
+           </li>		
+       </ul>         
 
         <h2>Master & Bachelor Students</h2>
         
        		<ul>
+       			<li>Svenja Fischer</li>
 				<li>Oliver Tryding    </li>
 				<li>Daniel Westerlund  </li>
 				<li>Fredrik Eklind  </li>
