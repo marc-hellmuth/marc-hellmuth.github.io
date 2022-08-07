@@ -81,8 +81,12 @@ The library is primarily designed to explore and validate mathematical concepts,
 				<ul><li><a href="https://github.com/david-schaller/AsymmeTree" title="Öffnet externen Link" target="_blank" class="external-link">Download</a></li>
 				</ul>
 				<p><em>Reference for AsymmeTree:</em></p>
-				<p>Stadler, Geiss, Schaller, López Sanchez, Gonzalez Laffitte, Valdivia, Hellmuth and Hernandez-Rosales<br />
-				From pairs of most similar sequences to phylogenetic best matches <br />Algorithms Mol Biol 15, 5 (2020)
+				<p>
+				AsymmeTree: A Flexible Python Package for the Simulation of
+									Complex Gene Family Histories<br /> 	
+							 D. Schaller, M. Hellmuth,  P.F. Stadler,  <br /> 	
+							Software, 1(3), 276-298, 2022 <br /> 
+					[<a href="https://www.mdpi.com/2674-113X/1/3/13"  target="_blank">publisher's	page</a>]
 				</p><p>&nbsp;</p>
 
 
