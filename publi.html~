@@ -88,7 +88,7 @@
 	<h5>JOURNALS</h5>
 	 				 <li>Construction of k-matchings in graph products<br /> 	
 						A. Lindeberg, M. Hellmuth <br /> 	
-						Art Discrete Appl. Math., 6 (2023), #2.02, DOI 10.26493/2590-9770.1462.b03
+						Art Discrete Appl. Math., 6, #2.02, DOI 10.26493/2590-9770.1462.b03, 2023
 						<br />  
 				   [<a href="https://adam-journal.eu/index.php/ADAM/article/view/1462"  target="_blank">publisher's	page</a>]
 				   [<a href="https://arxiv.org/abs/2109.06755"   target="_blank">arXiv</a>]</li>
@@ -97,7 +97,7 @@
 
 				<li>Hierarchical and Modularly-Minimal Vertex Colorings<br /> 	
 						D.I. Valdivia, M. Gei&szlig;, M. H.Rosales, P.F. Stadler,  M. Hellmuth<br /> 	
-						Art Discrete Appl. Math., 6 (2023), #2.01, DOI 10.26493/2590-9770.1422.9b6
+						Art Discrete Appl. Math., 6, #2.01, DOI 10.26493/2590-9770.1422.9b6, 2023
 						<br /> <!-- IMrich edition-->
 						[<a href="https://adam-journal.eu/index.php/ADAM/article/view/1422"  target="_blank">publisher's	page</a>]
 						[<a href="https://arxiv.org/abs/2004.06340"   target="_blank">arXiv</a>]</li> 
@@ -449,10 +449,17 @@ A Graph-Based Tool to Embed the pi-Calculus into a Computational DPO Framework<b
 <br /><br />
 
  				<h4>Submitted</h4>
+                <li>Resolving Prime Modules: The Structure of Pseudo-cographs and Galled-Tree Explainable Graphs<br /> 	
+						 M. Hellmuth, G.E. Scholz <br /> 	
+						(submitted 2022)<br /> 
+<!--				   [<a href="https://www.sciencedirect.com/science/article/pii/S0166218X22002359"  target="_blank">publisher's	page</a>]-->
+<!--			   [<a href="https://arxiv.org/abs/2112.05537"   target="_blank">arXiv</a>]</li>-->
+
+
 				 <li>Injective split systems<br /> 	
 						K.T. Huber,	 M. Hellmuth, V. Moulton,  G.E. Scholz, P.F. Stadler,  <br /> 	
 						(submitted 2022)<br /> <!-- JMB-->
-				  <!-- [<a href="https://arxiv.org/abs/2204.13466"   target="_blank">arXiv</a>]</li>						-->
+				  [<a href="https://arxiv.org/abs/2211.04322"   target="_blank">arXiv</a>]</li>						
 
 
  				 <li>Planar Median Graphs and Cubesquare-Graphs<br /> 	
@@ -472,7 +479,6 @@ A Graph-Based Tool to Embed the pi-Calculus into a Computational DPO Framework<b
 						(submitted 2021)<br /> <!-- DAM-->
 				   [<a href="https://arxiv.org/pdf/2109.10235.pdf"   target="_blank">arXiv</a>]</li>
 						  
-    
 
 
 </ol>
