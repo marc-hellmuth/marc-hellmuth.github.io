@@ -86,7 +86,18 @@
 
 	<br>
 	<h5>JOURNALS</h5>
-	 				 <li>Construction of k-matchings in graph products<br /> 	
+	 		 <li>Quasi-Best Match Graphs<br /> 	
+						A. Korchmaro, D. Schaller, M. Hellmuth, P.F. Stadler,  <br /> 	
+						Discr. Appl. Math, (to appear), 2023<br /> <!-- DAM-->
+				   [<a href="https://arxiv.org/abs/2109.10235"   target="_blank">arXiv</a>]</li>
+				
+	
+						 <li>Clustering Systems of Phylogenetic Networks<br /> 	
+							 M. Hellmuth, D. Schaller,  P.F. Stadler,  <br /> 	
+							Theory in Biosciences, (to appear), 2023<br /> <!-- JMB-->
+				   [<a href="https://arxiv.org/abs/2204.13466"   target="_blank">arXiv</a>]</li>						
+
+			 <li>Construction of k-matchings in graph products<br /> 	
 						A. Lindeberg, M. Hellmuth <br /> 	
 						Art Discrete Appl. Math., 6, #2.02, DOI 10.26493/2590-9770.1462.b03, 2023
 						<br />  
@@ -103,22 +114,13 @@
 						[<a href="https://arxiv.org/abs/2004.06340"   target="_blank">arXiv</a>]</li> 
  		
 
-			 <li>Planar Median Graphs and Cubesquare-Graphs<br /> 	
+			       <li>Planar Median Graphs and Cubesquare-Graphs<br /> 	
 						C.R. Seemann, V. Moulton, P.F. Stadler, M. Hellmuth <br /> 	
-						Discr. Appl. Math, (to appear), 2023<br /> <!-- ADAM imrich issue-->  
+						Discr. Appl. Math, 331, 38-58, 2023<br /> <!-- ADAM imrich issue-->  
+				   [<a href="https://www.sciencedirect.com/science/article/pii/S0166218X23000203"  target="_blank">publisher's	page</a>]
 				   [<a href="https://arxiv.org/abs/2110.09346"   target="_blank">arXiv</a>]</li>
 
-			 <li>Quasi-Best Match Graphs<br /> 	
-						A. Korchmaro, D. Schaller, M. Hellmuth, P.F. Stadler,  <br /> 	
-						Discr. Appl. Math, (to appear), 2023<br /> <!-- DAM-->
-				   [<a href="https://arxiv.org/abs/2109.10235"   target="_blank">arXiv</a>]</li>
-				
-	
-						 <li>Clustering Systems of Phylogenetic Networks<br /> 	
-							 M. Hellmuth, D. Schaller,  P.F. Stadler,  <br /> 	
-							Theory in Biosciences, (to appear), 2023<br /> <!-- JMB-->
-				   [<a href="https://arxiv.org/abs/2204.13466"   target="_blank">arXiv</a>]</li>						
-
+		
 	
  				 <li>From Modular Decomposition Trees to Level-1 networks: Pseudo-Cographs, Polar-Cats and Prime Polar-Cats<br /> 	
 						 M. Hellmuth, G.E. Scholz <br /> 	
