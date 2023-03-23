@@ -102,11 +102,13 @@
         <h2>Master & Bachelor Students</h2>
         
        		<ul>
-       			<li>Svenja Fischer</li>
-				<li>Mattias Lundin Staal  </li>				
+<!--				<li>Mattias Lundin Staal  </li>				-->
+				<li>Anna  Lindeberg   </li>
+				<li>Emanuel Berggren    </li>
+
 	     		<li><a href="teaching.html">Former Students</a></li> 
 			</ul>
-
+<a href="teaching.html">Former Students</a>
       
         
         <h2>Former Members and PhD Students</h2>
