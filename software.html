@@ -87,25 +87,52 @@ The library is primarily designed to explore and validate mathematical concepts,
 							 D. Schaller, M. Hellmuth,  P.F. Stadler,  
 							Software, 1(3), 276-298, 2022 <br /> 
 					[<a href="https://www.mdpi.com/2674-113X/1/3/13"  target="_blank">publisher's	page</a>]
-				</p><p>&nbsp;</p>
+					</p>
+<!--				</p><p>&nbsp;</p>-->
+
+
+	<h2>tralda</h2>
+				<p align="justify"> tralda is an open-source Python library for tree algorithms and data structures. It provides methods for tree traversals and manipulation, output in Newick format, as well as the linear-time computation of last common ancestors by Bender & Farach-Colton.
+				Tralda ontains an efficient algorithm for cograph recognition and heuristics for cograph editing.
+				A number of algorithms for the computation of supertrees are implemented:
+	<ul><li>
+    <li>BUILD (Aho et al. 1981), class Build or function BUILD_supertree</li>
+    <li>BuildST (Deng & Fernández-Baca 2016), class BuildST or function build_st</li>
+    <li>Loose_Cons_Tree (Jansson et al. 2016), class LooseConsensusTree or function loose_consensus_tree</li>
+    <li>LinCR (Schaller et al. 2021), class LinCR or function linear_common_refinement</li>
+	</ul>		
+</p>	
+				
+			
+				
+				<ul><li><a href="https://github.com/david-schaller/tralda" title="Öffnet externen Link" target="_blank" class="external-link">Download</a></li>
+				</ul>
+				<p><em>Reference for AsymmeTree:</em></p>
+				<p>
+				A simpler linear-time algorithm for the common refinement of rooted phylogenetic trees on a common leaf set<br /> 	
+							 D. Schaller, M. Hellmuth,  P.F. Stadler,  
+							Algorithms for Molecular Biology volume 16, Article number: 23 (2021)  <br /> 
+					[<a href="https://almob.biomedcentral.com/articles/10.1186/s13015-021-00202-8"  target="_blank">publisher's	page</a>]
+</p>
+<!--				</p><p>&nbsp;</p>-->
+
 
 
 				<h2>ParaPhylo</h2>
 				<p align="justify">ParaPhylo is a tool for reconstructing phylogenetic species trees based on information about paralogous genes. It relies on solving three intertwined NP-hard optimization problems: the cograph editing problem, the maximum consistent triple set problem, and the least resolved tree problem. Implemented as Integer Linear Program, paralogy-based phylogenies can be computed exactly for up to some twenty species and their complete protein complements. </p><ul><li><a href="http://pacosy.informatik.uni-leipzig.de/209-0-Downloads.html" title="Öffnet externen Link" target="_blank" class="external-link">Download</a></li><li><a href="/storages/uni-greifswald/fakultaet/mnf/mathinf/boldt/pdf-dateien/hellmuth-paraophylo_workprint.pdf" title="Öffnet internen Link" class="file-link">Workprint and Supplement</a></li></ul><p><em>Reference for ParaPhylo:</em></p><p>M. Hellmuth, N. Wieseke, M. Lechner, H-P Lenhof, M. Middendorf, and P.F. Stadler<br />Phylogenomics with Paralogs <br />Proceedings of the National Academy of Sciences (PNAS), 112(7):2058-2063, 2015<br /><br />M. Hellmuth, N. Wieseke <br />From Sequence Data incl. Orthologs, Paralogs, and Xenologs to Gene and Species Trees<br />in  Evolutionary Biology: Convergent Evolution, Evolution of Complex  Traits, Concepts and Methods, Ed. Pierre Pontarotti, Springer,  ISBN&nbsp;978-3-319-41323-5, 2016
-</p><p>&nbsp;</p>
+</p>
+<!--</p><p>&nbsp;</p>-->
 
 
 			<h2>	GapEST</h2>
 			<p align="justify">Antiparallel strong traces (ASTs) are a type of walks in graphs which use every edge exactly twice. They correspond to 1-face embeddings in orientable surfaces and can be used to design self- assembling protein or DNA strands. Based on a novel canonical form invariant for ASTs, gap vector, we provide a linear-time isomorphism test for ASTs and thus, also for orientable 1-face embeddings of graphs. Using the canonical form, we develop the algorithm GapEST for enumerating all pairwise non-isomorphic 1-face embeddings of given graphs. 
 </p><p><a href="https://github.com/nojgaard/DoubleTrace" title="Öffnet internen Link" target="_blank" class="external-link">Download</a><br /><a href="http://www.imada.sdu.dk/Employees/daniel/gapEST/" title="Öffnet internen Link" target="_blank" class="external-link">Datasets</a></p><p><em>Reference for GapEST:</em></p><p>M. Hellmuth, A.S. Knudsen, M. Kotrbcik, D. Merkle and N. Nojgaard <br>Linear Time Canonicalization and Enumeration of Non-Isomorphic 1-Face EmbeddingsSIAM: Algorithm Engineering and Experiments (ALENEX18)&nbsp; (to appear) 2018
-</p><p>&nbsp;</p>
+</p>
 
 
 
-
-
-
-				<h2>CAT (Cayley Atom Tracker)			</h2>
+				<h2>
+				 (Cayley Atom Tracker)			</h2>
 	<p align="justify">A python package for tracking atoms through chemical networks using projected Cayley graphs. 
 </p><p><a href="https://github.com/Nojgaard/cat" title="Öffnet internen Link" target="_blank" class="external-link">Download</a></p><p>
 <em>References for CAT</em></p><p>
@@ -115,7 +142,7 @@ M. Hellmuth, D. Merkle, N. N&oslash;jgaard <br>
 								Lecture Notes in Computer Science, vol 12304, Springer, pp 406-415, 2020 <br><br>
 			M. Hellmuth, W. Fontana, D. Merkle, N. N&oslash;jgaard<br>
 					Cayley Graphs of Semigroups Applied to Atom Tracking in Chemistry
-Journal of Computational Biology, (to appear), 2021			
+Journal of Computational Biology, Journal of Computational Biology, 28(7), 701-715., 2021			
 </p><p>&nbsp;</p>
 
 
@@ -129,9 +156,9 @@ Journal of Computational Biology, (to appear), 2021
 
 			<h2>	PartialHomology			</h2>
 	<p align="justify">A variety of methods based on sequence similarity, reconciliation, synteny or functional charac- teristics, can be used to infer homology relations, that is, orthology, paralogy and xenology relations between genes of a given gene family G. The (inferred) homology relations might not cover each pair of genes and thus, provide only partial knowledge on the full set of homology relations. Moreover, for particular pairs of genes it might be known with a high degree of certainty that they are not orthologs (resp. paralogs, xenologs) which yields forbidden pairs of genes. The question arises as whether such sets of (partial) homology relations with or without forbidden gene pairs are satisfiable, i.e., can they simultaneously co-exist in an evolutionary history for G. PartialHomology is an O(|G|^2+m|G|)-time algorithm to determine whether such homology relations are satisfiable and, in the positive case, to construct event-labeled gene trees containing speciation, duplication and horizontal gene transfer (HGT) events that can explain the relations.
-</p><p><a href="https://github.com/Nojgaard/Partial-Homology" title="Öffnet internen Link" target="_blank" class="external-link">Download</a></p><p><em>Reference for PartialHomology:</em></p><p>N. Nojgaard, N. El-Mabrouk, D. Merkle, N. Wieske, M. Hellmuth<br />Partial Orthology, Paralogy and Xenology Relations - Satisfiability in terms of Di-Cographs<br />arXiv:1711.00504 (2017)
+</p><p><a href="https://github.com/Nojgaard/Partial-Homology" title="Öffnet internen Link" target="_blank" class="external-link">Download</a></p><p><em>Reference for PartialHomology:</em></p><p>N. Nojgaard, N. El-Mabrouk, D. Merkle, N. Wieske, M. Hellmuth<br />Partial Orthology, Paralogy and Xenology Relations - Satisfiability in terms of Di-Cographs<br />In Computing and Combinatorics: 24st International Conference (COCOON),
+Lecture Notes in Computer Science, vol 10976, Springer, pp. 403-415, 2018
 </p><p>&nbsp;</p>
-
 
 
 			<h2>	ComposAlign			</h2>
