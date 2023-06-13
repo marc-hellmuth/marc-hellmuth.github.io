@@ -91,15 +91,17 @@
 							SIAM J. Discrete Math, (to appear), 2023 <br />	
 				   [<a href="https://arxiv.org/abs/2112.00403"   target="_blank">arXiv</a>]</li>						
 
-				 <li>Injective split systems<br /> 	
-						K.T. Huber,	 M. Hellmuth, V. Moulton,  G.E. Scholz, P.F. Stadler,  <br /> 	
-						Graphs and Combinatorics, Springer, (to appear), 2023<br /> <!-- JMB-->
-				  [<a href="https://arxiv.org/abs/2211.04322"   target="_blank">arXiv</a>]</li>						
-	
+		
 						 <li>Clustering Systems of Phylogenetic Networks<br /> 	
 							 M. Hellmuth, D. Schaller,  P.F. Stadler,  <br /> 	
 							Theory in Biosciences, (to appear), 2023<br /> <!-- JMB-->
 				   [<a href="https://arxiv.org/abs/2204.13466"   target="_blank">arXiv</a>]</li>						
+
+				 <li>Injective split systems<br /> 	
+						K.T. Huber,	 M. Hellmuth, V. Moulton,  G.E. Scholz, P.F. Stadler,  <br /> 	
+						Graphs and Combinatorics, Springer, 38, 4, 65, 2023<br /> <!-- JMB-->
+				   [<a href="https://link.springer.com/article/10.1007/s00373-023-02660-w"  target="_blank">publisher's	page</a>]
+				  [<a href="https://arxiv.org/abs/2211.04322"   target="_blank">arXiv</a>]</li>						
 
 			 <li>Construction of k-matchings in graph products<br /> 	
 						A. Lindeberg, M. Hellmuth <br /> 	
@@ -488,11 +490,20 @@ A Graph-Based Tool to Embed the pi-Calculus into a Computational DPO Framework<b
 
 				 <li>Relative Timing Information and Orthology in Evolutionary Scenarios<br /> 	
 						D. Schaller, T. Hartmann, M. Lafond, N. Wieseke, M. Hellmuth, P.F. Stadler <br /> 	
-			<!--			(submitted 2022)<br /> <!-- J Math bio-->
+			<!--			(submitted 2022)<br /> <!-- ALMOB -->
 			   [<a href="https://arxiv.org/abs/2212.02201"   target="_blank">arXiv</a>]</li>
 
-
+          <li>Linear Time Algorithms for NP-hard Problems restricted to GaTEx Graphs<br /> 	
+						 M. Hellmuth, G.E. Scholz <br /> 	
+			<!--			(submitted 2022)<br /> <!-- cocoon -->
+			   [<a href="http://arxiv.org/abs/2306.04367"   target="_blank">arXiv</a>]
+			 </li>
 		
+		    <li>Fitch Graph Completion<br /> 	
+						 M. Hellmuth, P.F. Stadler, S. Thekkumpadan Puthiyaveedu <br /> 	
+			<!--			(submitted 2022)<br /> <!-- cocoon -->
+			 <!--  [<a href="https://arxiv.org/abs/2211.16854"   target="_blank">arXiv</a>]-->
+			 </li>
 			  
 
 
