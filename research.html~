@@ -86,10 +86,13 @@
 -->
 
 				<span class="center">
-				<img 	src="./wortwolke.png"	
-							width="500" height="375"  
+				<img 	src="./tmptmp/wordcloud7.jpg"
+							width="500" height="500"  
 					  	border="0.5"  alt="topics"  > 
-      <!--  <p><strong>under construction</strong></p>-->
+      <!-- 
+      
+      							width="500" height="375"  
+ <p><strong>under construction</strong></p>-->
 				</span></br>
 				
 				
@@ -105,7 +108,7 @@
 				given data and how can we do it efficiently?</br>
 			      Answering these questions is an important step towards
       			concrete, practical and innovative
-		        algorithms and applications.</br> </br> 
+		        algorithms and applications.</br>
       </p>
       
       		       My interdisciplinary works includes:	</br></br>
