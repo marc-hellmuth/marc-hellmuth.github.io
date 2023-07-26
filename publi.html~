@@ -86,6 +86,11 @@
 
 	<br>
 	<h5>JOURNALS</h5>
+	         <li>Resolving Prime Modules: The Structure of Pseudo-cographs and Galled-Tree Explainable Graphs<br /> 	
+						 M. Hellmuth, G.E. Scholz <br /> 	
+			<!--			(submitted 2022)<br /> <!-- Disc Appl Math -->
+			   [<a href="https://arxiv.org/abs/2211.16854"   target="_blank">arXiv</a>]</li>
+
 			 <li>Orientation of Fitch Graphs and Detection of Horizontal Gene Transfer in Gene Trees<br /> 	
 							 D. Schaller, M. Hellmuth, P.F. Stadler,  <br /> 	
 							SIAM J. Discrete Math, (to appear), 2023 <br />	
@@ -94,7 +99,7 @@
 		
 						 <li>Clustering Systems of Phylogenetic Networks<br /> 	
 							 M. Hellmuth, D. Schaller,  P.F. Stadler,  <br /> 	
-							Theory in Biosciences, (to appear), 2023<br /> <!-- JMB-->
+							Theory in Biosciences, DOI:10.1007/s12064-023-00398-w, 2023<br /> <!-- JMB-->
 				   [<a href="https://arxiv.org/abs/2204.13466"   target="_blank">arXiv</a>]</li>						
 
 				 <li>Injective split systems<br /> 	
@@ -175,8 +180,8 @@
 
 
 
-				<li>C. Flamm, M. Hellmuth, D. Merkle, N. N&oslash;jgaard, P.F. Stadler<br /> 	
-						Generic Context-Aware Group Contributions<br /> 	
+				<li>   Generic Context-Aware Group Contributions<br /> 
+						C. Flamm, M. Hellmuth, D. Merkle, N. N&oslash;jgaard, P.F. Stadler<br /> 	
 						 IEEE/ACM Trans Comput Biol Bioinform,	
 						 18(1), 429-442 2022<br /> 
 						[<a href="https://ieeexplore.ieee.org/document/9104900"
@@ -276,8 +281,8 @@
 
 
 
-					<li>	D. Schaller, P.F. Stadler, M. Hellmuth<br /> 	
-								Complexity of Modification Problems for Best Match Graphs<br /> 	
+					<li>	Complexity of Modification Problems for Best Match Graphs<br /> 	
+							D. Schaller, P.F. Stadler, M. Hellmuth<br /> 	
 								Theoretical Computer Science, 865, 63-84, 2021<br /> 
 								[<a
 				href="https://www.sciencedirect.com/science/article/abs/pii/S0304397521001213"
@@ -293,9 +298,9 @@
 
 
 
-	<li>P.F. Stadler, M. Gei&szlig;, D. Schaller, A. Lopez, M.G. Laffitte,
-				D.I. Valdivia, M. Hellmuth, M. H.Rosales<br /> 
-				From pairs of most similar sequences to phylogenetic best matches<br /> 
+	<li>From pairs of most similar sequences to phylogenetic best matches<br /> 
+			P.F. Stadler, M. Gei&szlig;, D. Schaller, A. Lopez, M.G. Laffitte,
+				D.I. Valdivia, M. Hellmuth, M. H.Rosales<br /> 	
 				Algorithms for Molecular Biology, 15, 5, 1-20,
 				2020<br /> [<a
 				href="https://almob.biomedcentral.com/articles/10.1186/s13015-020-00165-2"
@@ -305,8 +310,8 @@
 
 
 
-				<li>M. Hellmuth,&nbsp; Carsten R. Seemann, P.F. Stadler<br />
-				Generalized Fitch Graphs II: Sets of Binary Relations that are
+				<li>				Generalized Fitch Graphs II: Sets of Binary Relations that are
+				M. Hellmuth,&nbsp; Carsten R. Seemann, P.F. Stadler<br />
 				explained by Edge-labeled Trees<br /> Discr. Appl. Math,
 				283, 495-511, 2020<br /> [<a
 				href="https://www.sciencedirect.com/science/article/abs/pii/S0166218X20300536"
@@ -483,11 +488,7 @@ A Graph-Based Tool to Embed the pi-Calculus into a Computational DPO Framework<b
 			   [<a href="https://arxiv.org/abs/2304.06453"   target="_blank">arXiv</a>]</li>
 
 
-                <li>Resolving Prime Modules: The Structure of Pseudo-cographs and Galled-Tree Explainable Graphs<br /> 	
-						 M. Hellmuth, G.E. Scholz <br /> 	
-			<!--			(submitted 2022)<br /> <!-- Disc Appl Math -->
-			   [<a href="https://arxiv.org/abs/2211.16854"   target="_blank">arXiv</a>]</li>
-
+       
 				 <li>Relative Timing Information and Orthology in Evolutionary Scenarios<br /> 	
 						D. Schaller, T. Hartmann, M. Lafond, N. Wieseke, M. Hellmuth, P.F. Stadler <br /> 	
 			<!--			(submitted 2022)<br /> <!-- ALMOB -->
@@ -507,8 +508,8 @@ A Graph-Based Tool to Embed the pi-Calculus into a Computational DPO Framework<b
 			  
 		    <li>The weighted total cophenetic index: A novel balance index for phylogenetic networks<br /> 	
 						 L. Kn&uuml;ver, M. Fischer, M. Hellmuth, K. Wicke <br /> 	
-			<!--			(submitted 2023)<br /> <!-- ??  -->
-			<!-- [<a href="http://arxiv.org/abs/2306.06878"   target="_blank">arXiv</a>]-->
+			<!--			(submitted 2023)<br /> <!-- DAM  -->
+			 [<a href="https://arxiv.org/abs/2307.08654"   target="_blank">arXiv</a>]
 			 </li>
 
 
