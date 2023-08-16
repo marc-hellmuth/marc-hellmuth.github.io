@@ -101,7 +101,7 @@ complex problems and devising efficient solutions.
 				mathematical characterization of discrete data  and 
 				the development of mathematical theory to help understanding the complex processes
 	      in life sciences. 
-	      Understanding the structure of the underlying problems is crucial for answering fundamental questions: How do we best extract knowledge out of the
+	      Grasping  the structure of the underlying problems is crucial for answering fundamental questions: How do we best extract knowledge out of the
 				given data and how can we do it efficiently?</br>
 			      Answering these questions is an important step towards
       			concrete, practical and innovative
@@ -115,7 +115,7 @@ complex problems and devising efficient solutions.
 	<ul>
 
 				<li>  Discrete Mathematics (incl. Graph Theory, Discrete Optimization, Combinatorics)
-				<li> Computational Complexity  (incl. (Co)NP-completeness, Fixed-Parameter Tractability (FPT) results)
+				<li> Computational Complexity  (incl. (Co)NP-completeness, Fixed-Parameter Tractability (FPT)s)
 				<li> Design of Integer Linear Programs (ILPs) and techniques to solve them.
 				<li> Design of efficient exact algorithms and efficient heuristics
 				<li> Design of approximation algorithms with provable guarantees on the distance to the optimal solution
