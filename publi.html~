@@ -97,7 +97,7 @@
 
 				 <li>Relative Timing Information and Orthology in Evolutionary Scenarios<br /> 	
 						D. Schaller, T. Hartmann, M. Lafond, N. Wieseke, M. Hellmuth, P.F. Stadler <br /> 	
-						Algorithms for Molecular Biology (in press), 2023 <br />	
+						Algorithms for Molecular Biology, 18(1), 16, 2023 <br />	
 				[<a href="https://doi.org/10.1186/s13015-023-00240-4"  target="_blank">publisher's	page</a>]
 			   [<a href="https://arxiv.org/abs/2212.02201"   target="_blank">arXiv</a>]</li>
 
@@ -326,8 +326,8 @@
 
 
 				<li>				Generalized Fitch Graphs II: Sets of Binary Relations that are
-				M. Hellmuth,&nbsp; Carsten R. Seemann, P.F. Stadler<br />
-				explained by Edge-labeled Trees<br /> Discr. Appl. Math,
+				explained by Edge-labeled Trees<br />
+								M. Hellmuth,&nbsp; Carsten R. Seemann, P.F. Stadler<br /> Discr. Appl. Math,
 				283, 495-511, 2020<br /> [<a
 				href="https://www.sciencedirect.com/science/article/abs/pii/S0166218X20300536"
 				  target="_blank">publisher's
@@ -450,24 +450,31 @@
 	<h5>CONFERENCE PROCEEDINGS</h5>
  			<li>Unique Least Common Ancestors and Clusters in Directed Acyclic Graphs<br /> 	
 					A.V. Shanavas, M. Changat, M. Hellmuth, P.F. Stadler <br /> 	
-					 accepted for 10th Annual International Conference on Algorithms and Discrete Applied Mathematics (CALDAM) 2024 <br />  	
-			<!--			(submitted 2023)<br /> <!-- CALDAM -->
-			  	 [<a href="https://arxiv.org/abs/2309.13634"   target="_blank">arXiv</a>]
+					 10th Annual International Conference on Algorithms and Discrete Applied Mathematics (CALDAM)
+					 Lecture Notes in Computer Science, vol 14508. Springer, pp 148-161, 2024  <br />  	
+			  [<a href="https://link.springer.com/chapter/10.1007/978-3-031-52213-0_11"  target="_blank">publisher's page</a>]			  	 [<a href="https://arxiv.org/abs/2309.13634"   target="_blank">arXiv</a>]
 				</li>
+
 
 
           <li>Linear Time Algorithms for NP-hard Problems restricted to GaTEx Graphs<br /> 	
 						 M. Hellmuth, G.E. Scholz <br /> 	
-						 accepted for 29th International Computing and Combinatorics Conference (COCOON) 2023 <br /> 
+					Computing and Combinatorics (COCOON 2023), Lecture Notes in Computer Science, vol 14422. Springer, pp 115-126, 2024<br/>
 			<!--			(submitted 2023)<br /> <!-- cocoon -->
-			   [<a href="http://arxiv.org/abs/2306.04367"   target="_blank">arXiv</a>]
+			  [<a href="https://doi.org/10.1007/978-3-031-49190-0_8"  target="_blank">publisher's page</a>] [<a href="http://arxiv.org/abs/2306.04367"   target="_blank">arXiv</a>]
 			 </li>
+			 
+			 
+			 
+			 
+			 
+					
 		
 		    <li>Fitch Graph Completion<br /> 	
-						 M. Hellmuth, P.F. Stadler, S. Thekkumpadan Puthiyaveedu <br />
-										 accepted for 29th International Computing and Combinatorics Conference (COCOON) 2023 <br />  	
+						 M. Hellmuth, P.F. Stadler, S. Thekkumpadan Puthiyaveedu <br />   
+					Computing and Combinatorics (COCOON 2023), Lecture Notes in Computer Science, vol 14422. Springer, pp 225-237, 2024<br/>
 			<!--			(submitted 2023)<br /> <!-- cocoon -->
-			 [<a href="http://arxiv.org/abs/2306.06878"   target="_blank">arXiv</a>]
+			  [<a href="https://link.springer.com/chapter/10.1007/978-3-031-49193-1_17"  target="_blank">publisher's page</a>] 			 [<a href="http://arxiv.org/abs/2306.06878"   target="_blank">arXiv</a>]
 			 </li>
 
 
@@ -514,6 +521,17 @@ A Graph-Based Tool to Embed the pi-Calculus into a Computational DPO Framework<b
 <br /><br />
 
  				<h4>Submitted</h4>
+ 				         <li>The Complement of the Djokovic-Winkler Relation<br /> 	
+						 M. Hellmuth, G.E. Scholz, B.J. Schmidt, S. Thekkumpadan Puthiyaveedu <br /> 	
+			<!--			(submitted 2023)<br /> <!-- DM - Gllm  -->
+			   [<a href="https://arxiv.org/abs/2311.18284"   target="_blank">arXiv</a>]  </li>
+
+			<li>Unique Least Common Ancestors and Clusters in Directed Acyclic Graphs<br /> 	
+					A.V. Shanavas, M. Changat, M. Hellmuth, P.F. Stadler <br /> 	
+			<!-- submitted 2024 to acta informatica (special issue caldam)-->
+				</li>
+
+
  						         <li>The Theory of Gene Family Histories<br /> 	
 						 M. Hellmuth, P.F. Stadler <br /> 	
 			<!--			(submitted 2023)<br /> <!-- springer chapter -->
@@ -530,6 +548,8 @@ A Graph-Based Tool to Embed the pi-Calculus into a Computational DPO Framework<b
 			<!--			(submitted 2023)<br /> <!-- DAM  -->
 			 [<a href="https://arxiv.org/abs/2307.08654"   target="_blank">arXiv</a>]
 			 </li>
+
+
 
 
 </ol>
