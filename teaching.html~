@@ -68,7 +68,7 @@
 	###########################
 -->
 
-
+ 
       <div id="content">
         <!-- insert the page content here -->
         <h1>Teaching</h1>
@@ -76,8 +76,10 @@
 				<h2>Lectures and Seminars:</h2>
 				<font size="3"><strong>Stockholm University</strong></font><br><br>
 					<strong>Lectures</strong>
-					<div style="text-indent:10px;">Computational Biology (WS 21/22, 22/23) </div>
-					<div style="text-indent:10px;">Algorithm and Complexity (WS 20/21, SS 21, 22) </div>
+					<div style="text-indent:10px;">Algorithm and Data Structures (WS 23/23) </div>
+					<div style="text-indent:10px;">Algorithm and Complexity (WS 20/21, SS 21, 22, 23) </div>
+					<div style="text-indent:10px;">Computational Biology (WS 21/22, 22/23, 23/24) </div>
+					<div style="text-indent:10px;">BSc Coordinator (DA6007 - Datalogi) (since 2021) </div>
 
 				<br><br>
 				<font size="3"><strong>University of Leeds</strong></font><br><br>
@@ -136,8 +138,7 @@
 				<h4>Current Students:</h4>
 				<ol>
 				<li>Carsten R. Seemann (PhD CompSci) <i> Median Graphs  </i>   </li>
-				<li>Anna  Lindeberg (MSc CompSci) <i> Explicit Modular Decomposition  </i>   </li>
-				<li>Emanuel Berggren    (BSc CompSci) <i> Modular Minimal Colorings   </i>   </li>
+				<li>Anna  Lindeberg (PhD Math) <i> Explicit Modular Decomposition  </i>   </li>
 <!--				<li>Mattias Lundin Staal (BSc CompSci) <i> Cograph Editing via Triple Consistency </i>   </li>-->
 <!--				<li>Thomas Andersson (BSc Math) <i> Modularly Minimal Vertex Colorings </i>   </li>
 				<li>Ahmet Sezer (BSc Math) <i> Biologically-feasible gene trees </i>   </li>-->
@@ -157,20 +158,29 @@
 
 				<li><a href="https://imada.sdu.dk/~nojgaard/" target="_blank">Nikolai N&oslash;jgaard</a> (PhD - with highest honor)<br />Graph Theoretical Problems in the Life Sciences<br />(cotutelle with Southern Denmark University; <a href="https://imada.sdu.dk/~daniel/" target="_blank"> Daniel Merkle</a>) <br />17. July 2020
 				</li>
-				<li><a href="http://pacosy.informatik.uni-leipzig.de/20-0-Nicolas+Wieseke.html" target="_blank">Nicolas Wiesecke</a>(PhD - with highest honor)<br />From Homologous Genes to Phylogenetic Species Trees<br />(supervision together with<a href="http://pacosy.informatik.uni-leipzig.de/15-0-Prof+Dr+Martin+Middendorf.html" target="_blank"> Martin Middendorf</a>) <br />01. Sept. 2017
+				<li><a href="http://pacosy.informatik.uni-leipzig.de/20-0-Nicolas+Wieseke.html" target="_blank">Nicolas Wiesecke</a> (PhD - with highest honor)<br />From Homologous Genes to Phylogenetic Species Trees<br />(supervision together with<a href="http://pacosy.informatik.uni-leipzig.de/15-0-Prof+Dr+Martin+Middendorf.html" target="_blank"> Martin Middendorf</a>) <br />01. Sept. 2017
 				</li>
 				<!--<li>Lydia Ostermeier (PhD - very good)<br />(Relaxed) Product Structures of Graphs and Hypergraphs<br />(supervision together with<a href="http://www.bioinf.uni-leipzig.de/~studla/" 					target="_blank"> P.F.Stadler</a>)<br />13. May 2015</li>-->
 				</ol>
 
 				<strong>MSc and Diploma Thesis</strong>
 				<ol>  
-				<li>Svenja Fischer (MSc Biomathematics) )<br /> About a generalization of median graphs  <br /> 15. Jan. 2023   </li>
-				<li>Linda Knuever (MSc Biomathematics)<br /> On balance of phylogenetic networks<br /> 09. March 2021 </li>
+				<li>Anna Lindeberg (MSc Mathematics) <br /> The Structure of Primitive Edge-Colored Graphs: A Galled Tree Perspective  <br /> 02. Aug. 2023  
+				<br /> <em><b> [work has been extended and published as a joint paper]  </b></em>
+				 </li>
+				<li>Svenja Fischer (MSc Biomathematics) <br /> About a generalization of median graphs  <br /> 15. Jan. 2023   </li>
+				<li>Linda Knuever (MSc Biomathematics)<br /> On balance of phylogenetic networks<br /> 09. March 2021 
+				<br /> <em><b> [work has been extended and published as a joint paper]  </b></em>
+				</li>
 				<li>Carmen Bruckmann (MSc Biomathematics)<br /> Median graph-Like
-				Relations<br /> 23. Aug. 2019 </li>
+				Relations<br /> 23. Aug. 2019
+								<br /> <em><b> [work has been extended and published as a joint paper]  </b></em>
+				 </li>
 				<li>Carsten Seemann
 				(MSc Mathematics)<br /> Generalized Fitch Graphs<br /> 24. Aug.
-				2018 </li>
+				2018 
+								<br /> <em><b> [work has been extended and published as a joint paper]  </b></em>
+				</li>
 				<li>Anne Schuetz (MSc Biomathematics)<br />
 				Spanning Tree Based Edge-Vitality of Graphs<br /> 20. Aug. 2018</li>
 				<li>Sebastian Brinkop (MSc Biomathematics)<br />
@@ -181,7 +191,9 @@
 				for the Characterization of Orthology Data?<br /> 23. Feb. 2018</li>
 					<li>John Anders (MSc Bioinformatics - Co-supervision
 				with P.F. Stadler)<br /> Fitch's Xenology Relation<br /> 26. June
-				2017 </li>
+				2017
+								<br /> <em><b> [work has been extended and published as a joint paper]  </b></em>
+ </li>
 				<li>Sebastian Luersen (MSc Mathematics)<br />
 				Approximate Cartesian Products of Digraphs<br /> 26. Aug. 2016</li>
 				<li>Maria Hartmann (MSc Mathematics)<br /> Design of
@@ -191,7 +203,9 @@
 				phylogenetic trees<br /> 31. Aug. 2015 </li>
 				<li>Adrian
 				Fritz (MSc Bioinformatics)<br /> A Heuristic for Cograph-Editing<br
-				/> 30. June 2015 </li>
+				/> 30. June 2015 
+								<br /> <em><b> [work has been extended and published as a joint paper]  </b></em>
+</li>
 				<li>Tilen Marc (MSc
 				Mathematics)<br /> Infinite median graphs - Co-supervision
 				with Sandi Klavzar<br /> 15. Aug. 2014
@@ -199,25 +213,29 @@
 				<li>Manuel Noll (MSc Computer Science)<br /> On Several
 				Strong Hypergraph Products - Existence and Computation of Unique
 				Prime Factor Decomposition<br /> 02. Dec. 2013
+								<br /> <em><b> [work has been extended and published as a joint paper]  </b></em>
 				</li>
 				<li>Lydia Gringmann (Diplom Mathematics)<br />
-				Hypergraph Products<br /> 08. Feb. 2010</li>
+				Hypergraph Products<br /> 08. Feb. 2010
+								<br /> <em><b> [work has been extended and published as a joint paper]  </b></em>
+</li>
 			</ol> 
 
 				<strong>BSc Thesis</strong>
 			<ol>
+			<li>Emanuel Berggren (BSc CompSci) <br /> Graph coloring using modular decomposition  <br /> 01. Aug. 2023   </li>			
 			<li>Oliver Tryding (BSc CompSci) <br /> Python algorithms for hardwired clustering systems  <br /> 22. May 2022   </li>
 			<li>Daniel Westerlund (BSc CompSci) <br /> Designing  and  Implementing  a  Median  Graph-Generating Algorithm through Convex Expansion  <br /> 22. May 2022  </li>
-			<li>Fredrik Eklind (BSc CompSci) <br /> Generating	Level-k Phylogenetic	Networks br <br /> 22. May 2022  </li>
+			<li>Fredrik Eklind (BSc CompSci) <br /> Generating	Level-k Phylogenetic	Networks <br /> 22. May 2022  </li>
 			<li>Mohammed Habib (BSc Math) <br /> Later-Divergence-Time Graphs <br /> 27. Aug. 2021  </li>
 			<li>Nicolai Moerdrup (BSc Computer Science) <br /> Complete Edge-Colored Permutation Graphs <br /> 28. May 2021  </li>
 			<li>Anna Lindeberg (BSc Computer Science)  <br /> Maximum matchings in Graph Products </br />  27. May 2021 </li>
 			<li>Nicola  Doering  (BSc BioMathematics)<br /> 	Algorithms for the "Reciprocal Best Match" Problem<br /> 	04. Feb. 2020 </li>
-			<li>Mira Michel  (BSc BioMathematics)<br /> 	Combinining Orthology- and Fitch-Relations<br /> 	21. Aug. 2019 </li>
+			<li>Mira Michel  (BSc BioMathematics)<br /> 	Combinining Orthology- and Fitch-Relations<br /> 	21. Aug. 2019 	<br /> <em><b> [work has been extended and published as a joint paper]  </b></em> </li>
 			<li>Linda Knuever (BSc BioMathematics)<br /> 	Fitch Graphen<br /> 	22. March 2018 </li>
 			<li>Lars Berling (BSc BioMathematics)<br /> 	A Comparison of Triple Based Heuristics for Supertree Reconstruction<br /> 	13. March 2018 </li>
 			<li>Fynn Marlin Leitow (BSc Mathematics)<br /> 	Heuristics and Exact Algorithms for the Di-Cograph Editing Problem<br /> 	01. Feb. 2018 </li>
-			<li>Casten Seemann (BSc Mathematics)<br /> 	Splits and Triples in rooted Trees and the Closure of Representative Triple Sets<br /> 	24. March 2017 </li>
+			<li>Casten Seemann (BSc Mathematics)<br /> 	Splits and Triples in rooted Trees and the Closure of Representative Triple Sets<br /> 	24. March 2017 	<br /> <em><b> [work has been extended and published as a joint paper]  </b></em> </li>
 			<li>Felix Becker (BSc Mathematics)<br /> 	Efficient Primfactor-Decomposition of Cartesian Product Graphs<br /> 	14. Feb. 2017 </li>
 			<li>Anica Hoppe (BSc BioMathematics)<br /> 	On the relationship between phylogenetic trees on four leaves and estimated orthology relations<br /> 	29. Nov. 2016 </li>
 			<li>Sonja Tuerpitz (BSc BioMathematics)<br /> 	On the reconstruction of slightly disturbed symbolic ultrametrics<br /> 	29. Nov. 2016 </li>
@@ -226,7 +244,7 @@
 			<li>Christian Brossette (BSc Bioinformatics)<br /> 	Effcient Algorithms for the Densest-k Subgraph problem<br /> 	26. June 2014 </li>
 			<li>Kevin Gitzhofer (BSc Bioinformatics)<br /> 	New Results in Finding Species Trees<br /> 	27. June 2013 </li>
 			<li>Miriam Bah (BSc Bioinformatics)<br /> 	Measuring the relevance of topology in networks for finding deregulated subgraphs<br /> 	30. Oct. 2012 </li>
-			<li>Sarah Berkemer (BSc Bioinformatics)<br /> 	Cograph Editing: An Approach to Adjust the Orthology Relation for the Reconstruction of Phylogenetic Trees<br /> 	12. Aug. 2012 </li>
+			<li>Sarah Berkemer (BSc Bioinformatics)<br /> 	Cograph Editing: An Approach to Adjust the Orthology Relation for the Reconstruction of Phylogenetic Trees<br /> 	12. Aug. 2012 	<br /> <em><b> [work has been extended and published as a joint paper]  </b></em> </li>
 			<li>Anna Feldmann (BSc Bioinformatics)<br /> 	Retrieving optimally discriminative Subnetwork Markers to predict response to Chemotherapy using a Color-coding Technique<br /> 	13. April 2012</li>
 			</ol
 
