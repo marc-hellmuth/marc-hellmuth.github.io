@@ -93,6 +93,15 @@
 	<h5>JOURNALS</h5>
 
 
+          <li>Network Representation and Modular Decomposition of Combinatorial Structures: A Galled-Tree Perspective <br /> 	
+						A. Lindeberg , G.E. Scholz, M. Hellmuth <br /> 	
+						Vietnam J. Math. -- Special Issue dedicated to Andreas Dress, Springer (to appear), 2024
+			<!--			(submitted 2024)<br /> <!-- special dress issue --  Vietnam Journal of Mathematics -->
+			<!--   [<a href="https://arxiv.org/abs/2406.18713"  target="_blank">publisher's page</a>] -->
+			 [<a href="https://arxiv.org/abs/2406.18713"   target="_blank">arXiv</a>]
+			 </li>
+
+
 
  				         <li>On a generalization of median graphs: k-median graphs<br /> 	
 						 M. Hellmuth, S. Thekkumpadan Puthiyaveedu <br /> 	
@@ -536,7 +545,7 @@
 
 
 					<li>J.L. Andersen, M. Hellmuth, D. Merkle, N. N&oslash;jgaard, M. Peressotti<br /> 
-A Graph-Based Tool to Embed the pi-Calculus into a Computational DPO Framework<br /> 		
+					A Graph-Based Tool to Embed the pi-Calculus into a Computational DPO Framework<br /> 		
 					46th International Conference on Current Trends in Theory and Practice of Computer Science<br /> 	Doctoral Student Research Forum (SOFSEM), pp 121-132, 2020<br /> 	[<a href="http://ceur-ws.org/Vol-2568/paper11.pdf"   target="_blank">publisher's page</a>][<a href="https://arxiv.org/abs/1911.00407"   target="_blank">arXiv</a>]</li>
 
 					<li>N. N&oslash;jgaard, N. El-Mabrouk, D. Merkle, N. Wieske, M. Hellmuth<br /> 	Partial Homology Relations - Satisfiability in terms of Di-Cographs<br /> 	24th International Computing and Combinatorics Conference (COCOON),<br /> 	Lecture Notes in Computer Science, vol 10976, Springer, pp. 403-415, 2018<br /> 	[<a href="https://link.springer.com/chapter/10.1007%2F978-3-319-94776-1_34"   target="_blank">publisher's page</a>][<a href="https://arxiv.org/abs/1711.00504"   target="_blank">arXiv</a>]</li>
@@ -559,17 +568,9 @@ A Graph-Based Tool to Embed the pi-Calculus into a Computational DPO Framework<b
 
 				<li>Nesting of Touching Polygons<br /> 	
 					C.S. Seemann, P.F. Stadler,  M. Hellmuth <br /> 	
-			<!-- MH submitted 2024 to   Information Processing Letters -->
-			<!--   [<a href="https://www.researchsquare.com/article/rs-3997739/latest"   target="_blank">preprint</a>]  -->
+			<!-- MH submitted 2024 to   Adv.Appl.Math. -->
+			  [<a href="http://arxiv.org/abs/2409.13040"   target="_blank">arXiv</a>] 
 				</li>
-
-          <li>Network Representation and Modular Decomposition of Combinatorial Structures: A Galled-Tree Perspective <br /> 	
-						A. Lindeberg , G.E. Scholz, M. Hellmuth <br /> 	
-			<!--			(submitted 2024)<br /> <!-- special dress issue --  Vietnam Journal of Mathematics -->
-			<!--   [<a href="https://arxiv.org/abs/2406.18713"  target="_blank">publisher's page</a>] -->
-			 [<a href="https://arxiv.org/abs/2406.18713"   target="_blank">arXiv</a>]
-			 </li>
-
 
           <li>Partial Fitch Graphs: Characterization, Satisfiability and Complexity <br /> 	
 					M. Hellmuth, A. Korchmaros, J.A. Ramirez-Rafael, B. Schmidt, P.F. Stadler, S. Thekkumpadan Puthiyaveedu1 <br /> 	
