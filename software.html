@@ -117,6 +117,28 @@ The library is primarily designed to explore and validate mathematical concepts,
 <!--				</p><p>&nbsp;</p>-->
 
 
+	<h2>Simplify DAGs and networks via Least-Common-Ancestor (LCA) Constraints</h2>
+				<p align="justify">
+				In a DAG or network G with leaf set L(G), a least common ancestor (LCA) of a subset A of
+				L(G) is a vertex v that is an ancestor of all x in A and has no descendant that also
+				satisfies this property. A DAG or network G is LCA-relevant if each vertex is the LCA of
+				some subset of leaves. Moreover, G is lca-relevant if each vertex is a unique LCA in G.
+				DAGs and networks inferred from genomic sequence data can be highly complex and tangled,
+				often containing redundant information. In particular, vertices that are not LCAs of any
+				subset of leaves can be considered less significant and redundant in an evolutionary
+				contex as they lack direct relevance to the observed ancestral relationships. To reduce
+				unnecessary complexity and eliminate unsupported vertices, we aim to simplify a DAG to
+				retain only LCA vertices while preserving essential evolutionary information. This
+				python tool allows to simplify a DAG by ``removal'' of such vertices resulting in an
+				LCA-relevant, resp., lca-relevant DAG while preserving key structural properties of the
+				original DAG or network. </p><ul>
+				 <li><a href="https://github.com/AnnaLindeberg/LeastCommonAncestor-relevant" title="Öffnet externen Link" target="_blank" class="external-link">Download</a></li>
+				<!-- <li><a href="https://link.springer.com/chapter/10.1007/978-3-031-58072-7_5" title="Öffnet internen Link" class="file-link">publisher's page</a></li>
+				 </ul><p>-->
+				 <em>Reference:</em></p><p>
+				 Simplifying and Characterizing DAGs and Phylogenetic Networks via Least Common Ancestor Constraints, 				 Lindeberg, A. and Hellmuth, M., arXiv:2411.00708, 2024 <br>
+				 </p>
+
 
 				<h2>ParaPhylo</h2>
 				<p align="justify">ParaPhylo is a tool for reconstructing phylogenetic species trees based on information about paralogous genes. It relies on solving three intertwined NP-hard optimization problems: the cograph editing problem, the maximum consistent triple set problem, and the least resolved tree problem. Implemented as Integer Linear Program, paralogy-based phylogenies can be computed exactly for up to some twenty species and their complete protein complements. </p><ul><li><a href="http://pacosy.informatik.uni-leipzig.de/209-0-Downloads.html" title="Öffnet externen Link" target="_blank" class="external-link">Download</a></li><li><a href="/storages/uni-greifswald/fakultaet/mnf/mathinf/boldt/pdf-dateien/hellmuth-paraophylo_workprint.pdf" title="Öffnet internen Link" class="file-link">Workprint and Supplement</a></li></ul><p><em>Reference for ParaPhylo:</em></p><p>M. Hellmuth, N. Wieseke, M. Lechner, H-P Lenhof, M. Middendorf, and P.F. Stadler<br />Phylogenomics with Paralogs <br />Proceedings of the National Academy of Sciences (PNAS), 112(7):2058-2063, 2015<br /><br />M. Hellmuth, N. Wieseke <br />From Sequence Data incl. Orthologs, Paralogs, and Xenologs to Gene and Species Trees<br />in  Evolutionary Biology: Convergent Evolution, Evolution of Complex  Traits, Concepts and Methods, Ed. Pierre Pontarotti, Springer,  ISBN&nbsp;978-3-319-41323-5, 2016
