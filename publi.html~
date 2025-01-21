@@ -24,7 +24,7 @@
           <!-- put class="selected" in the li tag for the selected page - to highlight which page you're on -->
           <li><a href="index.html">Home</a></li>
          <!-- <li><a href="examples.html">Examples</a></li>-->
-          <li><a href="research.html">Research</a></li>
+<!--          <li><a href="research.html">Research</a></li>-->
           <li class="selected"><a href="publi.html">Publications</a></li>
           <li><a href="software.html">Software</a></li>
 <li><a href="teaching.html">Teaching <br>  & Students</a></li>
@@ -91,11 +91,23 @@
 
 	<br>
 	<h5>JOURNALS</h5>
+	
+	   <li>Simplifying and Characterizing DAGs and Phylogenetic Networks via Least Common Ancestor Constraints <br /> 	
+						A. Lindeberg , M. Hellmuth <br /> 	
+			Bulletin of Mathematical Biology (to appear), 2025 <br /> 	<!--			(submitted 2024)<br /> <!-- Bull Math Bio 2024 -->
+			 [<a href="https://arxiv.org/abs/2411.00708"   target="_blank">arXiv</a>]
+			 </li>
+			 
+ 				         <li>The Complement of the Djokovic-Winkler Relation<br /> 	
+						 M. Hellmuth, G.E. Scholz, B.J. Schmidt, S. Thekkumpadan Puthiyaveedu <br /> 	
+						Discrete Mathematics, 348, 3, 2025  <br /> 	
+			 			[<a href="https://www.sciencedirect.com/science/article/pii/S0012365X2400459X"  target="_blank">publisher's	page</a>]	
+			 		   [<a href="https://arxiv.org/abs/2311.18284"   target="_blank">arXiv</a>]  </li>
 
 
           <li>Network Representation and Modular Decomposition of Combinatorial Structures: A Galled-Tree Perspective <br /> 	
 						A. Lindeberg , G.E. Scholz, M. Hellmuth <br /> 	
-						Vietnam J. Math. -- Special Issue dedicated to Andreas Dress, Springer (to appear), 2024
+						Vietnam J. Math., Special Issue dedicated to Andreas Dress, Springer (to appear), 2024  <br /> 	
 			<!--			(submitted 2024)<br /> <!-- special dress issue --  Vietnam Journal of Mathematics -->
 			<!--   [<a href="https://arxiv.org/abs/2406.18713"  target="_blank">publisher's page</a>] -->
 			 [<a href="https://arxiv.org/abs/2406.18713"   target="_blank">arXiv</a>]
@@ -566,6 +578,15 @@
 
  				<h4>Submitted</h4>
 
+          <li>Characterizing and Transforming DAGs within the I-LCA Framework <br /> 	
+						A. Lindeberg , M. Hellmuth <br /> 	
+			<!--			(submitted 2024)<br /> <!-- Discr math 2024 -->
+			 [<a href="https://arxiv.org/abs/2411.14057"   target="_blank">arXiv</a>]
+			 </li>
+
+
+       
+
 				<li>Nesting of Touching Polygons<br /> 	
 					C.S. Seemann, P.F. Stadler,  M. Hellmuth <br /> 	
 			<!-- MH submitted 2024 to   Adv.Appl.Math. -->
@@ -586,11 +607,6 @@
 			  [<a href="https://doi.org/10.1007/978-3-031-49190-0_8"  target="_blank">publisher's page</a>] -->
 			  [<a href="http://arxiv.org/abs/2306.04367"   target="_blank">arXiv</a>]
 			 </li>
-			 
- 				         <li>The Complement of the Djokovic-Winkler Relation<br /> 	
-						 M. Hellmuth, G.E. Scholz, B.J. Schmidt, S. Thekkumpadan Puthiyaveedu <br /> 	
-			<!--			(submitted 2023)<br /> <!-- DM - Gllm  -->
-			   [<a href="https://arxiv.org/abs/2311.18284"   target="_blank">arXiv</a>]  </li>
 
 
 
