@@ -25,7 +25,7 @@
           <!-- put class="selected" in the li tag for the selected page - to highlight which page you're on -->
           <li><a href="index.html">Home</a></li>
          <!-- <li><a href="examples.html">Examples</a></li>-->
-          <li><a href="research.html">Research</a></li>
+<!--          <li><a href="research.html">Research</a></li>-->
           <li><a href="publi.html">Publications</a></li>
           <li><a href="software.html">Software</a></li>
 		<li><a href="teaching.html">Teaching <br>  & Students</a></li>
@@ -108,9 +108,8 @@
         <h2>Master & Bachelor Students</h2>
         
        		<ul>
-				<li>Anton Alfonsson  </li>	<!-- isom test galled-trees-->
-				<li>Timothy Lindquist Marongiu  </li> <!-- triple heuristic for cographs -->			 
-				<li> Tom Alexander Hessler   </li> <!-- heuristics forbidden subgraph Gatex + ILP-->
+				<li>     Tora Åkerstedt  </li>
+				<li>     Anders Asklö </li>
 				<li>	 Joakim Axner    </li> <!--  EDT/PDT/LDT recognition  + smth	-->
 				<li>	 Michael Laurila    </li> <!--  edit gene tree to get consisten species triples	-->
 		
