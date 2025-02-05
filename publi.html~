@@ -269,7 +269,7 @@
 						D. Schaller, M.  Gei&szlig;, M. Hellmuth, P.F. Stadler <br /> 	
 						Journal of Graph Algorithms and Applications, 25, 1, 397-416, 2021<br /> 
 					[<a
-					href="https://jgaa.info/getPaper?id=564"
+					href="https://jgaa.info/index.php/jgaa/article/view/paper564"
 				  target="_blank">publisher's page</a>]
 					 [<a href="https://arxiv.org/abs/2101.07000"   target="_blank">arXiv</a>]</li>
 
@@ -587,11 +587,7 @@
 
        
 
-				<li>Nesting of Touching Polygons<br /> 	
-					C.S. Seemann, P.F. Stadler,  M. Hellmuth <br /> 	
-			<!-- MH submitted 2024 to   Adv.Appl.Math. -->
-			  [<a href="http://arxiv.org/abs/2409.13040"   target="_blank">arXiv</a>] 
-				</li>
+		
 
           <li>Partial Fitch Graphs: Characterization, Satisfiability and Complexity <br /> 	
 					M. Hellmuth, A. Korchmaros, J.A. Ramirez-Rafael, B. Schmidt, P.F. Stadler, S. Thekkumpadan Puthiyaveedu1 <br /> 	
@@ -619,7 +615,11 @@
 			   [<a href="https://www.researchsquare.com/article/rs-3997739/latest"   target="_blank">preprint</a>]  
 				</li>
 
-
+		<li>Nesting of Touching Polygons<br /> 	
+					C.S. Seemann, P.F. Stadler,  M. Hellmuth <br /> 	
+			<!-- MH submitted 2024 to   Adv.Appl.Math. -->
+			  [<a href="http://arxiv.org/abs/2409.13040"   target="_blank">arXiv</a>] 
+				</li>
 
 
 
