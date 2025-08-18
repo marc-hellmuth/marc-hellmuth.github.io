@@ -97,10 +97,34 @@
         (<a href="https://www.su.se/english/profiles/mahe0163-1.529352#" target="_blank">Department of Mathematics</a>)
         in Sweden. My <a href="#anchor-res">research interests</a>
         cover a wide variety of topics at the interface of discrete mathematics, computer science, and life sciences
-        (see below for more details). I live with <a href="family.jpg">Paula and our three children</a> in Uppsala.
-        When I find time, I enjoy making <a href="mh1.jpeg">music</a> and going to concerts or festivals.
+        (see below for more details). I live with <a href="#img-family">Paula and our three children</a> in Uppsala.
+        When I find time, I enjoy making <a href="#img-musik">music</a>, going to concerts or festivals or just 
+        <a href="#img-run">run, run, run.</a>
     </p>
 </div>
+
+
+
+<!-- overlays (one per image) -->
+<a href="#" class="lightbox" id="img-family"><img src="family.jpg" alt=""></a>
+<a href="#" class="lightbox" id="img-musik"><img src="mh1.jpeg" alt=""></a>
+<a href="#" class="lightbox" id="img-run"><img src="run-2.jpg" alt=""></a>
+
+<style>
+  .lightbox { position: fixed; inset: 0; display: none; align-items: center; justify-content: center;
+              background: rgba(0,0,0,.7); text-decoration: none; }
+  .lightbox:target { display: flex; }
+  .lightbox img { max-width: 90vw; max-height: 90vh; height: auto; border-radius: 8px; box-shadow: 0 10px 30px rgba(0,0,0,.4); }
+
+  /* per-image sizing (optional) */
+  #img-family img { width: 800px; }
+  #img-musik img { width: 480px; }
+  #img-run img { width: 500px; }
+</style>
+
+
+
+
 
 
       <div id="content">
