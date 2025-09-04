@@ -59,6 +59,23 @@
           <li><a href="http://www.bioinf.uni-leipzig.de/%7Emarc/StimmenDerStadt/" target="_blank">Album "Stimmen der Stadt" (2004)</a></li>
         </ul>
        
+			<a href="https://scholar.google.de/citations?user=4ja1NHsAAAAJ&hl=de&oi=ao" target="_blank">
+			<img src="./scholargoogle.png" width="35" height="35"> 
+			</a>
+			<a href="https://www.researchgate.net/profile/Marc_Hellmuth" target="_blank">
+			<img src="./rg.png"	  	   width="35" height="35"> 
+			</a>
+			<a href="https://dblp.org/pers/h/Hellmuth:Marc.html" target="_blank">
+			<img src="./dblp.png"	   width="35" height="35"> 
+			</a>
+			<a href="https://orcid.org/0000-0002-1620-5508" target="_blank">
+			<img src="./orcid.png"	width="35" height="35"> 
+			</br></br></br>
+			</a>				
+			<a href="https://www.su.se/" target="_blank">
+			<img 	src="./SU.png"	width="180" height="60"> 
+			</a>						
+
       </div>
 
 
@@ -78,6 +95,7 @@
 					<strong>Lectures</strong>
 					<div style="text-indent:10px;">Algorithm and Data Structures (WS 23/23) </div>
 					<div style="text-indent:10px;">Algorithm and Complexity (WS 20/21, SS 21, 22, 23) </div>
+					<div style="text-indent:10px;">Graph theory and network science (SS 25) </div>
 					<div style="text-indent:10px;">Computational Biology (WS 21/22, 22/23, 23/24) </div>
 					<div style="text-indent:10px;">BSc Coordinator (DA6007 - Datalogi) (since 2021) </div>
 
@@ -223,6 +241,7 @@
 
 				<strong>BSc Thesis</strong>
 			<ol>
+			<li>    Tora Akerstedt   (BSc CompSci) <br />  Substitution Operations on Undirected Graphs  <br /> 02. Sep. 2025   </li>			
 			<li>Anton Alfonsson (BSc CompSci) <br />  Isomorphism testing of level-1 networks in linear time using the AHU algorithm  <br /> 29. Aug. 2024   </li>			
 			<li>Timothy Lindquist Marongiu (BSc CompSci) <br /> Cograph editing through rooted triple consistency heuristics  <br /> 29. Aug. 2024   </li>			
 			<li>Tom Alexander Hessler (BSc CompSci) <br />         Heuristic vs. ILP: Destroying forbidden subgraphs. An application to GaTEx Graphs  <br /> 29. Aug. 2024   </li>						
