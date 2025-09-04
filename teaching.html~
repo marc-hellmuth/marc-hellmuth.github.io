@@ -239,9 +239,12 @@
 </li>
 			</ol> 
 
+				
+
 				<strong>BSc Thesis</strong>
 			<ol>
-			<li>    Tora Akerstedt   (BSc CompSci) <br />  Substitution Operations on Undirected Graphs  <br /> 02. Sep. 2025   </li>			
+			<li>     Michael Laurila   (BSc CompSci) <br />  Substitution Operations on Undirected Graphs  <br /> 25. Aug. 2025   </li>			<!--  edit gene tree to get consisten species triples	-->
+			<li>    Tora Akerstedt   (BSc CompSci) <br />  Substitution Operations on Undirected Graphs  <br /> 25. Aug. 2025   </li>			
 			<li>Anton Alfonsson (BSc CompSci) <br />  Isomorphism testing of level-1 networks in linear time using the AHU algorithm  <br /> 29. Aug. 2024   </li>			
 			<li>Timothy Lindquist Marongiu (BSc CompSci) <br /> Cograph editing through rooted triple consistency heuristics  <br /> 29. Aug. 2024   </li>			
 			<li>Tom Alexander Hessler (BSc CompSci) <br />         Heuristic vs. ILP: Destroying forbidden subgraphs. An application to GaTEx Graphs  <br /> 29. Aug. 2024   </li>						
