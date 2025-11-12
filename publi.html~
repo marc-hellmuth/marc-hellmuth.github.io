@@ -94,7 +94,7 @@
 
 </br>
 
-<h4>Published (peer-reviewed)</h4>
+<h4><b>Published (peer-reviewed)</b></h4>
 <ol>	
 	<h5>MONOGRAPHS / BOOK CHAPTERS</h5>
 
@@ -113,24 +113,32 @@
 	<h5>JOURNALS</h5>
 
 
-          <li>Orthology and Near-Cographs in the Context of Phylogenetic Networks <br /> 	
-						A. Lindeberg, G.E. Scholz, N. Wieseke, M. Hellmuth <br /> 	
-				Algorithms for Molecular Biology (in press) 2025<br /> 
-			 [<a href="http://arxiv.org/abs/2502.08746"   target="_blank">arXiv</a>]
+          <li>Characterizing and Transforming DAGs within the I-LCA Framework <br /> 	
+					A. Lindeberg , M. Hellmuth <br /> 	
+					Discrete Appl Math, 378, 584-593, 2026<br /> 
+			  [<a href="https://www.sciencedirect.com/science/article/pii/S0166218X25004780"  target="_blank">publisher's page</a>] 
+			 [<a href="https://arxiv.org/abs/2411.14057"   target="_blank">arXiv</a>]
 			 </li>
 
 	
           <li>Network Representation and Modular Decomposition of Combinatorial Structures: A Galled-Tree Perspective <br /> 	
 						A. Lindeberg , G.E. Scholz, M. Hellmuth <br /> 	
-						Vietnam J. Math., Special Issue dedicated to Andreas Dress, Springer (in press), 2025  <br /> 	
+						Vietnam J. Math., Special Issue dedicated to Andreas Dress, Springer, doi:10.1007/s10013-025-00747-w, 2025  <br /> 	
 			<!--			(submitted 2024)<br /> <!-- special dress issue --  Vietnam Journal of Mathematics -->
-			<!--   [<a href="https://arxiv.org/abs/2406.18713"  target="_blank">publisher's page</a>] -->
+			 [<a href="https://doi.org/10.1007/s10013-025-00747-w"  target="_blank">publisher's page</a>] 
 			 [<a href="https://arxiv.org/abs/2406.18713"   target="_blank">arXiv</a>]
+			 </li>
+
+          <li>Orthology and Near-Cographs in the Context of Phylogenetic Networks <br /> 	
+						A. Lindeberg, G.E. Scholz, N. Wieseke, M. Hellmuth <br /> 	
+				Algorithms for Molecular Biology, 20(1), 19, 2025<br /> 				
+			  [<a href="https://link.springer.com/article/10.1186/s13015-025-00285-7"  target="_blank">publisher's page</a>] 				
+			 [<a href="http://arxiv.org/abs/2502.08746"   target="_blank">arXiv</a>]
 			 </li>
 
           <li>Solving NP-hard Problems on GaTEx Graphs: Linear-Time Algorithms for Perfect Orderings, Cliques, Colorings, and	Independent Sets <br /> 	
 						 M. Hellmuth, G.E. Scholz <br /> 	
-					Theoretical Computer Science, doi:/10.1016/j.tcs.2025.115157, 2025  <br /> 	
+					Theoretical Computer Science, 1037, 115157, 2025  <br /> 	
 			  [<a href="https://doi.org/10.1016/j.tcs.2025.115157"  target="_blank">publisher's page</a>] 
 			  [<a href="http://arxiv.org/abs/2306.04367"   target="_blank">arXiv</a>]
 			 </li>
@@ -613,16 +621,22 @@
 
 <br /><br />
 
- 				<h4>Submitted</h4>
+ 				<h4><b>Submitted</b></h4>
 
 
 
 		
+       <li>Inferring DAGs and Phylogenetic Networks from Least Common Ancestors <br /> 	
+						A. Lindeberg, A. Alfonsson, V. Moulton, G.E. Scholz, and M. Hellmuth <br /> 	
+			<!--			(submitted 2024)<br /> <!-- 2025-02 EJC (MH) 
+			 [<a href="https://arxiv.org/abs/2503.16186"   target="_blank">arXiv</a>]-->
+			 </li>
+
 
           <li>REvolutionH-tl: A Fast and Robust Tool for Decoding Evolutionary Gene Histories<br /> 	
 				 J.A. Ramirez-Rafael, A. Korchmaros, K. Avina-Padilla, G. Martinez-Medina, A. Lopez-Sanchez, A.J. Hernandez-Alvarez, M. Hellmuth, P.F. Stadler and M. Hernandez-Rosales <br /> 	
 			<!--			(submitted 2024)<br /> <!-- Plos 25  -->
-<!--			  [<a href="https://arxiv.org/abs/2503.22368"   target="_blank">arXiv</a>]-->
+			  [<a href="https://www.biorxiv.org/content/10.1101/2025.04.03.646975v1"   target="_blank">bioRxiv</a>]
 			 </li>
 
 
@@ -633,29 +647,14 @@
 			 </li>
 
 
+   
           <li>Global Least Common Ancestor (LCA) Networks <br /> 	
-						A. Lindeberg, B. Schmidt,  M. Changat,  A.V. Shanavas, P.F. Stadler M. Hellmuth <br /> 	
-			<!--			(submitted 2024)<br /> <!-- 2025-02 JGT (MH) -->
+						A. Lindeberg, B. Schmidt,  M. Changat,  A.V. Shanavas, P.F. Stadler, M. Hellmuth <br /> 	
+			<!--			(submitted 2024)<br /> <!-- 2025-02 SPECIAL DRESS BIELEFELD ISSUE (MH) -->
 			 [<a href="https://arxiv.org/abs/2503.16186"   target="_blank">arXiv</a>]
 			 </li>
 
 
-
-
-
-
-
-
-          <li>Characterizing and Transforming DAGs within the I-LCA Framework <br /> 	
-						A. Lindeberg , M. Hellmuth <br /> 	
-			<!--			(submitted 2024)<br /> <!-- Discr appl math 2024 -->
-			 [<a href="https://arxiv.org/abs/2411.14057"   target="_blank">arXiv</a>]
-			 </li>
-
-
-       
-
-		
 
           <li>Partial Fitch Graphs: Characterization, Satisfiability and Complexity <br /> 	
 					M. Hellmuth, A. Korchmaros, J.A. Ramirez-Rafael, B. Schmidt, P.F. Stadler, S. Thekkumpadan Puthiyaveedu1 <br /> 	
@@ -667,7 +666,7 @@
 
 <br /><br />
 
- 				<h4>Other</h4>
+ 				<h4><b>Other</b></h4>
 
 
 
