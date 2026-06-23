@@ -102,7 +102,7 @@ p { margin: 0 0 1.15rem; }
 #content ul > li::marker { color: var(--blue-600); }
 
 #content h2 + p, #content h2 + ul, #content h2 + ol { margin-top: .7rem; }
-#content a[target="_blank"]::after { content: " ↗"; font-size: .76em; text-decoration: none; }
+#content a[target="_blank"]::after { content: ""; font-size: .76em; text-decoration: none; }
 #content a[href$=".jpg"]::after, #content a[href$=".jpeg"]::after { content: ""; }
 
 .hero-card { grid-column: 1 / -1; grid-row: 1; display: grid; grid-template-columns: minmax(190px, 280px) minmax(0, 1fr); gap: clamp(1.4rem, 4vw, 3rem); align-items: center; padding: clamp(1.2rem, 3vw, 2rem); margin-bottom: 2rem; }
