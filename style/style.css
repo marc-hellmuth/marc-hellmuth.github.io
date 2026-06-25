@@ -57,7 +57,7 @@ a:hover { color: var(--blue-900); }
 
 #menubar { padding: 0 1.25rem .85rem; overflow-x: auto; }
 #menu { display: flex; flex-wrap: wrap; gap: .4rem; margin: 0; padding: 0; list-style: none; }
-#menu a { display: block; padding: .6rem .82rem; color: #F7F9FA; border-radius: 999px; font-family: "Avenir Next", "Segoe UI", "Helvetica Neue", Arial, sans-serif; font-size: .98rem; font-weight: 500; letter-spacing: .01em; line-height: 1.2; text-decoration: none; white-space: nowrap; }
+#menu a { display: block; padding: .6rem .82rem; color: #F7F9FA; border-radius: 999px; font-family: "Avenir Next", "Segoe UI", "Helvetica Neue", Arial, sans-serif; font-size: 1.04rem; font-weight: 500; letter-spacing: .01em; line-height: 1.2; text-decoration: none; white-space: nowrap; }
 #menu a:hover { background: rgba(255,255,255,.11); }
 #menu .selected a { color: #FFFFFF; background: linear-gradient(135deg, #18344F 0%, #254E70 55%, #356B91 100%); box-shadow: 0 8px 22px rgba(24,52,79,.30); }
 
