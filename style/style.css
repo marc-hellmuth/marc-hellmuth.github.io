@@ -334,3 +334,18 @@ p { margin: 0 0 1.15rem; }
   display: none;
 }
 
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 180px;
+}
+
+.publication-nav {
+  margin: 0.75em 0 3em 0;
+  padding: 0.6em 0;
+  line-height: 1.8;
+}
+
+.publication-nav a {
+  white-space: nowrap;
+}
+
